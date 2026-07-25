@@ -1,8 +1,12 @@
 # The Index of Perspective Fragmentation: An Automated, Comparative Co-Citation Analysis Across Twenty Research Fields
 
-**[Author names withheld — to be completed]**
+Daniel Aristizábal Torres¹\* & Ana María Barrera Rodríguez²
 
-**Target venue:** Quantitative Science Studies (or Scientometrics / Journal of Informetrics as alternatives)
+¹ Faculty of Engineering, Universidad Libre Seccional Pereira, Pereira, Colombia
+
+² Facultad de Ciencias Económicas, Administrativas y Contables, Universidad Libre Seccional Pereira, Pereira, Colombia
+
+\* Corresponding author: daniel.aristizabalt@unilibre.edu.co
 
 ---
 
