@@ -20,7 +20,7 @@ Co-citation analysis has long been used to map the "intellectual structure" of a
 
 ## 1. Introduction
 
-Every research field has an intellectual structure: a set of foundational works that different groups of authors cite together, revealing shared theoretical commitments, methodological traditions, or application domains. Mapping this structure — identifying how many distinct *perspectives* a field contains, how isolated they are from one another, and what each one is actually about — has been a core task of scientometrics since Small (1973) introduced co-citation analysis and White and Griffith (1981) extended it to author-level mapping. This kind of mapping matters beyond bibliometrics itself: it helps editors and funders identify whether a field is converging toward consensus or fragmenting into isolated camps, helps new researchers orient themselves without reading the entire literature, and helps meta-scientists study how knowledge organizes itself as a field matures.
+Every research field has an intellectual structure: a set of foundational works that different groups of authors cite together, revealing shared theoretical commitments, methodological traditions, or application domains. Citation networks were first shown to reveal this kind of structure by de Solla Price (1965) and Garfield (1972), and mapping it — identifying how many distinct *perspectives* a field contains, how isolated they are from one another, and what each one is actually about — has been a core task of scientometrics since Small (1973) introduced co-citation analysis and White and Griffith (1981) extended it to author-level mapping. This kind of mapping matters beyond bibliometrics itself: it helps editors and funders identify whether a field is converging toward consensus or fragmenting into isolated camps, helps new researchers orient themselves without reading the entire literature, and helps meta-scientists study how knowledge organizes itself as a field matures.
 
 In practice, however, this kind of mapping is almost always done by hand, for one field at a time. A researcher exports a corpus, builds a co-citation network, runs a community-detection algorithm, and then manually inspects and names each resulting cluster based on domain expertise. This approach — exemplified by a recent manual co-citation study of the Refrigerated Vehicle Routing Problem (RVRP) literature (Aristizábal Torres et al., 2026), which identified four dominant research perspectives from a directed co-citation network of 3,116 nodes built in Gephi — produces rich, expert-validated maps, but it does not scale, and, more importantly for the present purpose, it is not *comparable*. Because corpus size, search strategy, clustering resolution, and naming conventions vary from study to study, there is no way to say whether Field A is more fragmented than Field B; the two numbers, even if both are reported, were not produced under conditions that make them commensurable.
 
@@ -32,15 +32,17 @@ Our contribution is threefold. First, a fully automated, reproducible co-citatio
 
 ## 2. Related Work
 
-**Co-citation and bibliographic coupling.** Co-citation analysis (Small, 1973) and its author-level extension (White & Griffith, 1981) remain the dominant approach to mapping a field's intellectual structure, complementing the earlier document-similarity approach of bibliographic coupling (Kessler, 1963). McCain (1990) formalized the general workflow — network construction, dimensionality reduction or clustering, and interpretation — that the present pipeline automates end to end.
+**Co-citation and bibliographic coupling.** Co-citation analysis (Small, 1973) and its author-level extension (White & Griffith, 1981) remain the dominant approach to mapping a field's intellectual structure, complementing the earlier document-similarity approach of bibliographic coupling (Kessler, 1963) and the term-based alternative of co-word analysis (Callon et al., 1991). Boyack and Klavans (2010) compared these citation-based approaches directly and found co-citation analysis to most accurately represent a field's research front, which motivates our choice of it as the present pipeline's underlying network structure. McCain (1990) formalized the general workflow — network construction, dimensionality reduction or clustering, and interpretation — that the present pipeline automates end to end.
 
-**Community detection in citation networks.** Modularity-based community detection, particularly the Louvain algorithm (Blondel et al., 2008), has become the standard tool for partitioning co-citation and bibliographic-coupling networks into thematic clusters, building on the modularity framework of Newman (2006). A known but under-discussed property of Louvain is its sensitivity to node insertion order in unweighted or naively reconstructed graphs; we document a concrete instance of this problem and its fix (Section 3.5), a methodological caution that, to our knowledge, has not been explicitly reported in prior comparative bibliometric work.
+**Community detection in citation networks.** Modularity-based community detection — from its origins in Girvan and Newman (2002) through the modularity-optimization framework of Newman (2006), and surveyed comprehensively by Fortunato (2010) — has become the standard tool for partitioning co-citation and bibliographic-coupling networks into thematic clusters, with the Louvain algorithm (Blondel et al., 2008) as its most widely used implementation. A known but under-discussed property of Louvain is its sensitivity to node insertion order in unweighted or naively reconstructed graphs; the successor Leiden algorithm (Traag et al., 2019) was developed specifically to guarantee well-connected communities where Louvain can fail. We document a concrete instance of the node-order problem and a lower-cost fix that preserves determinism without changing algorithms (Section 3.5), a methodological caution that, to our knowledge, has not been explicitly reported in prior comparative bibliometric work.
 
-**Science mapping software.** Tools such as CiteSpace (Chen, 2006), VOSviewer (van Eck & Waltman, 2010), and bibliometrix (Aria & Cuccurullo, 2017) have made single-field science mapping widely accessible, and overlay-mapping approaches (Rafols et al., 2010) have been used to visualize interdisciplinarity against a fixed backdrop of science. These tools, however, are designed for single-field, human-in-the-loop analysis; they do not standardize network size across corpora of different volumes, which is a prerequisite for the kind of cross-field comparison we pursue here.
+**Science mapping software.** Tools such as CiteSpace (Chen, 2006), VOSviewer (van Eck & Waltman, 2010; Waltman et al., 2010), and bibliometrix (Aria & Cuccurullo, 2017) have made single-field science mapping widely accessible — see Cobo et al. (2011) for a comparative review of these and other tools — and overlay-mapping approaches (Leydesdorff & Rafols, 2009; Rafols et al., 2010) have been used to visualize interdisciplinarity against a fixed backdrop of science. These tools, however, are designed for single-field, human-in-the-loop analysis; they do not standardize network size across corpora of different volumes, which is a prerequisite for the kind of cross-field comparison we pursue here.
 
-**Diversity and interdisciplinarity metrics.** Our IFP is conceptually related to diversity indices used to quantify interdisciplinarity (e.g., Rafols & Meyer, 2010), in that both reduce a complex citation structure to a single comparable number. IFP differs in scope: rather than measuring how much a field draws on *external* disciplinary categories, it measures how internally split a field's own literature is into mutually distant co-citation communities.
+**Diversity and interdisciplinarity metrics.** Our IFP is conceptually related to diversity indices used to quantify interdisciplinarity, building on Stirling's (2007) general framework for analysing diversity and its application to citation patterns (Rafols & Meyer, 2010), in that both reduce a complex citation structure to a single comparable number. IFP differs in scope: rather than measuring how much a field draws on *external* disciplinary categories, it measures how internally split a field's own literature is into mutually distant co-citation communities.
 
-**Automated labeling with language models.** The use of large language models to summarize or label clusters of scientific documents is a fast-growing but still largely undocumented practice in applied bibliometrics. We contribute a concrete, reproducible protocol — resolving top-PageRank references to real titles via OpenAlex, then prompting a language model for a short name and description — together with the human quality-assurance checks needed to catch a specific failure mode: near-duplicate cluster names produced when a single coherent perspective is spuriously split (Section 3.7).
+**Automated labeling with language models.** The use of large language models to summarize or label clusters of scientific documents is a fast-growing but still largely undocumented practice in applied bibliometrics. Evidence from the adjacent task of systematic-review screening is mixed: large language models can approach human-level accuracy on some literature-classification tasks but remain unreliable enough that human oversight is still recommended (Khraisha et al., 2024). Consistent with that evidence, we contribute a concrete, reproducible protocol — resolving top-PageRank references to real titles via the OpenAlex API (Priem et al., 2022), then prompting a language model for a short name and description — together with the human quality-assurance checks needed to catch a specific failure mode: near-duplicate cluster names produced when a single coherent perspective is spuriously split (Section 3.7).
+
+**General bibliometric methodology.** Beyond citation-network-specific methods, broader guidelines for conducting rigorous bibliometric analyses (Zupic & Čater, 2015; Donthu et al., 2021) emphasize transparent, reproducible protocols over ad hoc application of software tools — a standard the fully scripted, versioned pipeline presented here is designed to meet.
 
 ---
 
@@ -54,7 +56,7 @@ We selected 20 research fields for topical diversity, spanning the natural and p
 
 ### 3.2 Literature search and corpus construction
 
-All corpora were retrieved from Web of Science using the **Title (TI)** search field exclusively. We deliberately avoided the Topic field, which searches abstracts and keywords in addition to titles and tends to produce much larger, more topically diffuse corpora; using a single, consistent search field across all 20 fields was necessary to keep search strategy from being itself a source of incomparability — an issue we discovered and corrected mid-project after finding that an early, methodologically inconsistent batch of fields mixed Title and Topic searches (see Section 3.7).
+All corpora were retrieved from the Web of Science Core Collection — chosen over alternatives such as Scopus for its curated indexing and long-established role in bibliometric research, notwithstanding known differences in journal coverage between databases (Mongeon & Paul-Hus, 2016) — using the **Title (TI)** search field exclusively. We deliberately avoided the Topic field, which searches abstracts and keywords in addition to titles and tends to produce much larger, more topically diffuse corpora; using a single, consistent search field across all 20 fields was necessary to keep search strategy from being itself a source of incomparability — an issue we discovered and corrected mid-project after finding that an early, methodologically inconsistent batch of fields mixed Title and Topic searches (see Section 3.7).
 
 Within the Title field, queries were iteratively tuned to keep each corpus under approximately 2,000 records — large enough for a stable co-citation network, small enough to remain a single Web of Science export batch. Two failure modes had to be actively managed during query construction. First, queries that were too broad (in some cases returning tens of thousands of records) were narrowed using exact phrases and Boolean combinations. Second, and more consequentially, queries that were narrowed *along a single facet* (e.g., restricting a climate-adaptation query to a single governance-related phrase) were found to distort the resulting network by making the corpus artificially homogeneous, which in turn caused a single genuine perspective to be spuriously split into several near-identical clusters by the community-detection step (documented in detail in Section 3.7). The corrective heuristic we adopted was to widen narrow queries across *multiple* relevant facets (joined with OR) rather than to accept a single-angle query merely because it hit a target corpus size. Final corpus sizes across the 20 fields ranged from 310 to 1,809 articles (Table 1).
 
@@ -202,7 +204,7 @@ Two recurring patterns emerged from the per-field quality-assurance review (Sect
 
 **Sub-population and temporal splits.** Several fields fragmented along sub-population or temporal lines within what a reader might initially expect to be a single perspective — for instance, adolescent- versus child-focused COVID-19 mental-health literatures, general versus medical-education-specific COVID-19 online-learning literatures, and a temporal split in the Supply Chain Resilience literature between foundational pre-2015 resilience theory, a parallel risk-management tradition, and a post-2018 quantitative wave associated with COVID-19 and Industry 4.0. In each case, manual review of sample titles confirmed these were structurally and substantively distinct communities rather than artifacts of the kind described in Section 3.7.
 
-**Structural extremes.** The lowest-fragmentation field, Supply Chain Resilience (IFP = 0.328), was characterized by a small number of very densely interconnected clusters — consistent with a mature field organized around a small set of widely shared foundational citations. The highest-fragmentation fields — Sustainable Urban Mobility, Precision Agriculture, and Renewable Energy — were all mature, multidisciplinary socio-technical domains spanning distinct methodological communities (e.g., transport economics, engineering/operations research, and behavioral psychology within Urban Mobility alone), consistent with the intuitive expectation that interdisciplinary breadth increases citation fragmentation.
+**Structural extremes.** The lowest-fragmentation field, Supply Chain Resilience (IFP = 0.328), was characterized by a small number of very densely interconnected clusters — consistent with a mature field organized around a small set of widely shared foundational citations, the kind of consolidation one would expect as a subfield's publication and citation growth stabilizes over time (Bornmann & Mutz, 2015). The highest-fragmentation fields — Sustainable Urban Mobility, Precision Agriculture, and Renewable Energy — were all mature, multidisciplinary socio-technical domains spanning distinct methodological communities (e.g., transport economics, engineering/operations research, and behavioral psychology within Urban Mobility alone), consistent with the intuitive expectation that interdisciplinary breadth increases citation fragmentation.
 
 ---
 
@@ -248,15 +250,41 @@ Aria, M., & Cuccurullo, C. (2017). bibliometrix: An R-tool for comprehensive sci
 
 Blondel, V. D., Guillaume, J.-L., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in large networks. *Journal of Statistical Mechanics: Theory and Experiment*, 2008(10), P10008.
 
+Bornmann, L., & Mutz, R. (2015). Growth rates of modern science: A bibliometric analysis based on the number of publications and cited references. *Journal of the Association for Information Science and Technology*, 66(11), 2215–2222.
+
+Boyack, K. W., & Klavans, R. (2010). Co-citation analysis, bibliographic coupling, and direct citation: Which citation approach represents the research front most accurately? *Journal of the American Society for Information Science and Technology*, 61(12), 2389–2404.
+
+Callon, M., Courtial, J. P., & Laville, F. (1991). Co-word analysis as a tool for describing the network of interactions between basic and technological research: The case of polymer chemistry. *Scientometrics*, 22(1), 155–205.
+
 Chen, C. (2006). CiteSpace II: Detecting and visualizing emerging trends and transient patterns in scientific literature. *Journal of the American Society for Information Science and Technology*, 57(3), 359–377.
+
+Cobo, M. J., López-Herrera, A. G., Herrera-Viedma, E., & Herrera, F. (2011). Science mapping software tools: Review, analysis, and cooperative study among tools. *Journal of the American Society for Information Science and Technology*, 62(7), 1382–1402.
+
+de Solla Price, D. J. (1965). Networks of scientific papers. *Science*, 149(3683), 510–515.
+
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., & Lim, W. M. (2021). How to conduct a bibliometric analysis: An overview and guidelines. *Journal of Business Research*, 133, 285–296.
+
+Fortunato, S. (2010). Community detection in graphs. *Physics Reports*, 486(3–5), 75–174.
+
+Garfield, E. (1972). Citation analysis as a tool in journal evaluation. *Science*, 178(4060), 471–479.
+
+Girvan, M., & Newman, M. E. J. (2002). Community structure in social and biological networks. *Proceedings of the National Academy of Sciences*, 99(12), 7821–7826.
 
 Kessler, M. M. (1963). Bibliographic coupling between scientific papers. *American Documentation*, 14(1), 10–25.
 
+Khraisha, Q., Put, S., Kappenberg, J., Warraitch, A., & Hadfield, K. (2024). Can large language models replace humans in systematic reviews? Evaluating GPT-4's efficacy in screening and extracting data from peer-reviewed and grey literature in multiple languages. *Research Synthesis Methods*, 15(4), 616–626.
+
+Leydesdorff, L., & Rafols, I. (2009). A global map of science based on the ISI subject categories. *Journal of the American Society for Information Science and Technology*, 60(2), 348–362.
+
 McCain, K. W. (1990). Mapping authors in intellectual space: A technical overview. *Journal of the American Society for Information Science*, 41(6), 433–443.
+
+Mongeon, P., & Paul-Hus, A. (2016). The journal coverage of Web of Science and Scopus: A comparative analysis. *Scientometrics*, 106(1), 213–228.
 
 Newman, M. E. J. (2006). Modularity and community structure in networks. *Proceedings of the National Academy of Sciences*, 103(23), 8577–8582.
 
 Page, L., Brin, S., Motwani, R., & Winograd, T. (1999). *The PageRank citation ranking: Bringing order to the web* (Technical Report). Stanford InfoLab.
+
+Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. *arXiv preprint*, arXiv:2205.01833.
 
 Rafols, I., & Meyer, M. (2010). Diversity and network coherence as indicators of interdisciplinarity: case studies in bionanoscience. *Scientometrics*, 82(2), 263–287.
 
@@ -264,6 +292,14 @@ Rafols, I., Porter, A. L., & Leydesdorff, L. (2010). Science overlay maps: A new
 
 Small, H. (1973). Co-citation in the scientific literature: A new measure of the relationship between two documents. *Journal of the American Society for Information Science*, 24(4), 265–269.
 
+Stirling, A. (2007). A general framework for analysing diversity in science, technology and society. *Journal of the Royal Society Interface*, 4(15), 707–719.
+
+Traag, V. A., Waltman, L., & van Eck, N. J. (2019). From Louvain to Leiden: Guaranteeing well-connected communities. *Scientific Reports*, 9, 5233.
+
 van Eck, N. J., & Waltman, L. (2010). Software survey: VOSviewer, a computer program for bibliometric mapping. *Scientometrics*, 84(2), 523–538.
 
+Waltman, L., van Eck, N. J., & Noyons, E. C. M. (2010). A unified approach to mapping and clustering of bibliometric networks. *Journal of Informetrics*, 4(4), 629–635.
+
 White, H. D., & Griffith, B. C. (1981). Author cocitation: A literature measure of intellectual structure. *Journal of the American Society for Information Science*, 32(3), 163–171.
+
+Zupic, I., & Čater, T. (2015). Bibliometric methods in management and organization. *Organizational Research Methods*, 18(3), 429–472.
