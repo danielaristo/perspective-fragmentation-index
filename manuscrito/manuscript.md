@@ -4,7 +4,7 @@ Daniel Aristizábal Torres¹\* & Ana María Barrera Rodríguez²
 
 ¹ Faculty of Engineering, Universidad Libre Seccional Pereira, Pereira, Colombia
 
-² Facultad de Ciencias Económicas, Administrativas y Contables, Universidad Libre Seccional Pereira, Pereira, Colombia
+² Faculty of Economic, Administrative and Accounting Sciences, Universidad Libre Seccional Pereira, Pereira, Colombia
 
 \* Corresponding author: daniel.aristizabalt@unilibre.edu.co
 
@@ -47,6 +47,8 @@ Our contribution is threefold. First, a fully automated, reproducible co-citatio
 ---
 
 ## 3. Methods
+
+The pipeline proceeds through six stages, from a Web of Science search to the final Index of Perspective Fragmentation, summarized in Figure 1 and detailed in the subsections that follow.
 
 ![Methodological pipeline: from Web of Science title search to the Index of Perspective Fragmentation (six stages).](../figuras/diagrama_metodologia.png)
 
