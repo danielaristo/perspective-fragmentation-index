@@ -1,0 +1,58 @@
+[
+  {
+    "cluster": 1,
+    "tamano": 542,
+    "nombre": "Gobierno corporativo y divulgación de RSE",
+    "descripcion": "Estudia cómo las estructuras de gobierno corporativo y la teoría de agencia influyen en la responsabilidad social empresarial y su divulgación.",
+    "titulos_muestra": [
+      "(1976) Theory of the firm: Managerial behavior, agency costs and ownership structure",
+      "DOI:10.1016/j.jaccpubpol.2005.06.001]",
+      "(2012) Corporate Governance and Corporate Social Responsibility Disclosures: Evidence from an Emerging Economy",
+      "(1992) Determinants of corporate social responsibility disclosure: An application of stakeholder theory",
+      "(2007) Why would corporations behave in socially responsible ways? an institutional theory of corporate social responsibility",
+      "(2010) The Impact of Board Diversity and Gender Composition on Corporate Social Responsibility and Firm Reputation"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 835,
+    "nombre": "Desempeño social y financiero corporativo",
+    "descripcion": "Analiza la relación entre responsabilidad social empresarial y desempeño financiero, integrando la teoría de los stakeholders y modelos de desempeño corporativo.",
+    "titulos_muestra": [
+      "(1997) THE CORPORATE SOCIAL PERFORMANCE-FINANCIAL PERFORMANCE LINK",
+      "(2003) Corporate Social and Financial Performance: A Meta-Analysis",
+      "(2001) Corporate Social Responsibility: a Theory of the Firm Perspective",
+      "FREEMAN R.E., 1984, STRATEGIC MANAGEMENT: A STAKEHOLDER APPROACH",
+      "(2003) Misery Loves Companies: Rethinking Social Initiatives by Business",
+      "(1979) A Three-Dimensional Conceptual Model of Corporate Performance"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 308,
+    "nombre": "RSC, valor financiero y costo de capital",
+    "descripcion": "Estudia cómo la responsabilidad social corporativa y su divulgación afectan el valor de la empresa, riesgo y acceso a financiamiento.",
+    "titulos_muestra": [
+      "(2010) Voluntary Nonfinancial Disclosure and the Cost of Equity Capital: The Initiation of Corporate Social Responsibility Reporting",
+      "(2010) Corporate Social Responsibility as a Conflict Between Shareholders",
+      "(2013) Corporate social responsibility and access to finance",
+      "(2013) The Impact of Corporate Social Responsibility on Firm Value: The Role of Customer Awareness",
+      "(2012) Nonfinancial Disclosure and Analyst Forecast Accuracy: International Evidence on Corporate Social Responsibility Disclosure",
+      "(2008) The relationship between corporate social responsibility and shareholder value: an empirical test of the risk management hypothesis"
+    ]
+  },
+  {
+    "cluster": 8,
+    "tamano": 332,
+    "nombre": "RSE, innovación verde y ventaja competitiva",
+    "descripcion": "Estudia cómo la responsabilidad social y la innovación verde generan ventaja competitiva sostenible, empleando modelos de ecuaciones estructurales.",
+    "titulos_muestra": [
+      "(1991) Firm Resources and Sustained Competitive Advantage",
+      "(1981) Structural Equation Models with Unobservable Variables and Measurement Error: Algebra and Statistics",
+      "(2020) Corporate social responsibility and environmental performance: The mediating role of environmental strategy and green innovation",
+      "(2003) Common method biases in behavioral research: A critical review of the literature and recommended remedies.",
+      "(2014) A new criterion for assessing discriminant validity in variance-based structural equation modeling",
+      "HAIR JF., 2010, MULTIVARIATE DATA ANALYSIS, V7TH"
+    ]
+  }
+]

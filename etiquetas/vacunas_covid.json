@@ -1,0 +1,100 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 1167,
+    "nombre": "Reticencia a la vacunación",
+    "descripcion": "Estudio de los determinantes, medición y factores psicosociales que explican la duda y el rechazo hacia las vacunas.",
+    "titulos_muestra": [
+      "(2015) Vaccine hesitancy: Definition, scope and determinants",
+      "(2013) Vaccine hesitancy",
+      "(2014) Understanding vaccine hesitancy around vaccines and vaccination from a global perspective: A systematic review of published literature, 2007–2012",
+      "(2018) Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination",
+      "(2020) Social media and vaccine hesitancy: new updates for the era of COVID-19 and globalized infectious diseases",
+      "(2015) Measuring vaccine hesitancy: The development of a survey tool"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 136,
+    "nombre": "Reticencia a vacunación COVID-19 en África",
+    "descripcion": "Estudia la aceptación y los factores determinantes de la vacunación contra COVID-19 en poblaciones y trabajadores sanitarios de países africanos.",
+    "titulos_muestra": [
+      "(2021) COVID-19 vaccine hesitancy among Ethiopian healthcare workers",
+      "(2020) &lt;p&gt;Acceptability of Vaccination Against COVID-19 Among Healthcare Workers in the Democratic Republic of the Congo&lt;/p&gt;",
+      "(2021) Examining Vaccine Hesitancy in Sub-Saharan Africa: A Survey of the Knowledge and Attitudes among Adults to Receive COVID-19 Vaccines in Ghana",
+      "(2021) Assessment of Vaccine Hesitancy to a COVID-19 Vaccine in Cameroonian Adults and Its Global Implication",
+      "(2021) Factors Affecting COVID-19 Vaccine Acceptance: An International Survey among Low- and Middle-Income Countries",
+      "(2021) Assessing the Level and Determinants of COVID-19 Vaccine Confidence in Kenya"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 106,
+    "nombre": "Reticencia a la vacunación COVID-19 en sanitarios",
+    "descripcion": "Estudia las actitudes, creencias y barreras que influyen en la intención de vacunarse contra COVID-19 entre profesionales y estudiantes de salud.",
+    "titulos_muestra": [
+      "(2020) Vaccine hesitancy: the next challenge in the fight against COVID-19",
+      "(2020) Influenza vaccine uptake, COVID-19 vaccination intention and vaccine hesitancy among nurses: A survey",
+      "(2020) COVID-19 vaccine hesitancy among medical students",
+      "(2021) Vaccine hesitancy: Beliefs and barriers associated with COVID‐19 vaccination among Egyptian medical students",
+      "(2020) Intention to get vaccinations against COVID-19 in French healthcare workers during the first pandemic wave: a cross-sectional survey",
+      "(2021) The Nature and Extent of COVID-19 Vaccination Hesitancy in Healthcare Workers"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 421,
+    "nombre": "Reticencia a la vacunación contra COVID-19",
+    "descripcion": "Estudia los factores y tasas de aceptación o rechazo de las vacunas contra COVID-19 en diversas poblaciones mundiales.",
+    "titulos_muestra": [
+      "(2021) COVID-19 Vaccine Hesitancy Worldwide: A Concise Systematic Review of Vaccine Acceptance Rates",
+      "(2013) Endemic Orthoptera (Insecta) of India",
+      "(2021) Vaccine hesitancy in the era of COVID-19",
+      "(2021) Factors Associated with COVID-19 Vaccine Hesitancy",
+      "(2021) COVID-19 vaccine acceptance and hesitancy in low- and middle-income countries",
+      "(2021) COVID-19 vaccine hesitancy in a representative working-age population in France: a survey experiment based on vaccine characteristics"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 276,
+    "nombre": "Aceptación y vacilación ante vacunas COVID-19",
+    "descripcion": "Estudia la disposición, aceptación y factores determinantes de la población para vacunarse contra COVID-19 en distintos países.",
+    "titulos_muestra": [
+      "(2020) Attitudes Toward a Potential SARS-CoV-2 Vaccine",
+      "(2021) COVID-19 Vaccination Hesitancy in the United States: A Rapid National Assessment",
+      "(2020) Determinants of COVID-19 vaccine acceptance in the US",
+      "(2020) Confidence and Receptivity for COVID-19 Vaccines: A Rapid Systematic Review",
+      "(2020) Acceptability of a COVID-19 vaccine among adults in the United States: How many people would get vaccinated?",
+      "(2020) Once we have it, will we use it? A European survey on willingness to be vaccinated against COVID-19"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 120,
+    "nombre": "Eficacia y aceptación de vacunas COVID-19",
+    "descripcion": "Investigación sobre ensayos clínicos de vacunas COVID-19 y factores que influyen en su aceptación o reticencia poblacional.",
+    "titulos_muestra": [
+      "(2020) A global survey of potential acceptance of a COVID-19 vaccine",
+      "(2020) Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine",
+      "(2020) Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine",
+      "VOYSEY M, 2021, LANCET, V397, P99, DOI [10.1016/S0140-6736(21)00432-3, 10.1016/S0140-6736(20)32661-1]",
+      "(2021) COVID-19 Vaccine Hesitancy and Acceptance Among Individuals With Cancer, Autoimmune Diseases, or Other Serious Comorbid Conditions: Cross-sectional, Internet-Based Survey",
+      "(2017) On the benefits of explaining herd immunity in vaccine advocacy"
+    ]
+  },
+  {
+    "cluster": 7,
+    "tamano": 93,
+    "nombre": "Reticencia parental a vacunar a niños",
+    "descripcion": "Estudia las actitudes, intenciones y dudas de padres respecto a vacunar a sus hijos, incluyendo vacunas rutinarias y contra COVID-19.",
+    "titulos_muestra": [
+      "(2020) Caregiver willingness to vaccinate their children against COVID-19: Cross sectional survey",
+      "(2021) Parental COVID-19 vaccine hesitancy for children: vulnerability in an urban hotspot",
+      "(2011) Development of a survey to identify vaccine-hesitant parents",
+      "(2021) Parents’ Intentions and Perceptions About COVID-19 Vaccination for Their Children: Results From a National Survey",
+      "(2011) Validity and reliability of a survey to identify vaccine-hesitant parents",
+      "(2020) Parental Hesitancy About Routine Childhood and Influenza Vaccinations: A National Survey"
+    ]
+  }
+]

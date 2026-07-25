@@ -1,0 +1,142 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 164,
+    "nombre": "Determinantes financieros e institucionales del consumo renovable",
+    "descripcion": "Analiza cómo el desarrollo financiero, la calidad institucional y el ingreso influyen en el consumo de energías renovables mediante modelos de datos de panel.",
+    "titulos_muestra": [
+      "(2019) The effect of financial development on renewable energy consumption. A panel data approach",
+      "(2009) Renewable energy consumption, CO2 emissions and oil prices in the G7 countries",
+      "(2020) Political economy of renewable energy: Does institutional quality make a difference in renewable energy consumption?",
+      "(1998) Initial conditions and moment restrictions in dynamic panel data models",
+      "(2009) Renewable energy consumption and income in emerging economies",
+      "(2021) The effect of financial development on renewable energy demand: The case of developing countries"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 249,
+    "nombre": "Econometría de datos de panel con dependencia",
+    "descripcion": "Métodos econométricos para probar raíces unitarias, cointegración, causalidad y homogeneidad en paneles con dependencia entre secciones cruzadas.",
+    "titulos_muestra": [
+      "(2007) A simple panel unit root test in the presence of cross‐section dependence",
+      "(2007) Testing for Error Correction in Panel Data*",
+      "(2007) Testing slope homogeneity in large panels",
+      "PESARAN MH, 2021, EMPIR ECON, V60, P13, DOI [10.17863/CAM.5113, 10.1007/S00181-020-01875-7]",
+      "(2012) Testing for Granger non-causality in heterogeneous panels",
+      "(2004) PANEL COINTEGRATION: ASYMPTOTIC AND FINITE SAMPLE PROPERTIES OF POOLED TIME SERIES TESTS WITH AN APPLICATION TO THE PPP HYPOTHESIS"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 43,
+    "nombre": "Barreras a la adopción de energías renovables",
+    "descripcion": "Estudio de los obstáculos técnicos, económicos, políticos y sociales que dificultan el desarrollo y despliegue de tecnologías renovables.",
+    "titulos_muestra": [
+      "(2014) Barriers to renewable/sustainable energy technologies adoption: Indian perspective",
+      "(2019) Breaking barriers in deployment of renewable energy",
+      "(2018) An analysis on barriers to renewable energy development in the context of Nepal using AHP",
+      "(2001) Barriers to renewable energy penetration; a framework for analysis",
+      "(2013) Australian renewable energy policy: Barriers and challenges",
+      "(2007) Identifying and addressing barriers to renewable energy development in Pakistan"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 60,
+    "nombre": "Cointegración aplicada a energía y emisiones",
+    "descripcion": "Uso de métodos econométricos de cointegración para analizar relaciones entre crecimiento económico, energías renovables y emisiones de CO2.",
+    "titulos_muestra": [
+      "(2001) Bounds testing approaches to the analysis of level relationships",
+      "(1990) Statistical Inference in Instrumental Variables Regression with I(1) Processes",
+      "(1987) Co-Integration and Error Correction: Representation, Estimation, and Testing",
+      "(2017) How economic growth, renewable electricity and natural resources contribute to CO2 emissions?",
+      "(2019) The role of renewable energy in the global energy transformation",
+      "(2021) Augmented reality and virtual reality displays: emerging technologies and future perspectives"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 100,
+    "nombre": "Efectividad de políticas públicas en energías renovables",
+    "descripcion": "Analiza cómo distintos instrumentos políticos y regulatorios influyen en la inversión, innovación y crecimiento de las energías renovables.",
+    "titulos_muestra": [
+      "(2009) Renewable Energy Policies and Technological Innovation: Evidence Based on Patent Counts",
+      "(2004) Effectiveness through risk reduction: a comparison of the renewable obligation in England and Wales and the feed-in system in Germany",
+      "(2007) Lessons for effective renewable electricity policy from Denmark, Germany and the United Kingdom",
+      "(2015) Public policy influence on renewable energy investments—A panel data study across OECD countries",
+      "(2014) Determinants of renewable energy growth: A global sample analysis",
+      "(2012) Are public policies towards renewables successful? Evidence from European countries"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 37,
+    "nombre": "Comercio y transición hacia energías renovables",
+    "descripcion": "Analiza cómo la apertura comercial, precios del petróleo y crecimiento económico influyen en la adopción de energías renovables usando métodos econométricos.",
+    "titulos_muestra": [
+      "(1980) The Lagrange Multiplier Test and its Applications to Model Specification in Econometrics",
+      "(2020) Oil price shocks and renewable energy transition: Empirical evidence from net oil-importing South Asian economies",
+      "(2018) Does Improvement in Trade Openness Facilitate Renewable Energy Transition? Evidence from Selected South Asian Economies",
+      "(1969) Investigating Causal Relations by Econometric Models and Cross-spectral Methods",
+      "(2019) Are Trade Liberalization policies aligned with Renewable Energy Transition in low and middle income countries? An Instrumental Variable approach",
+      "(2019) The impacts of economic growth, trade openness and technological progress on renewable energy use in organization for economic co-operation and development countries"
+    ]
+  },
+  {
+    "cluster": 11,
+    "tamano": 77,
+    "nombre": "Sistemas energéticos 100% renovables",
+    "descripcion": "Investigación sobre la transición hacia sistemas energéticos globales basados completamente en energías renovables, especialmente solar fotovoltaica de bajo costo.",
+    "titulos_muestra": [
+      "(2021) Low-cost renewable electricity as the key driver of the global energy transition towards sustainability",
+      "(2020) Full energy sector transition towards 100% renewable energy supply: Integrating power, heat, transport and industry sectors including desalination",
+      "(2021) Solar photovoltaics is ready to power a sustainable future",
+      "(2019) Impact of weighted average cost of capital, capital expenditure, and other parameters on future utility‐scale PV levelised cost of electricity",
+      "(2022) On the History and Future of 100% Renewable Energy Systems Research",
+      "(2016) North-East Asian Super Grid for 100% renewable energy supply: Optimal mix of energy technologies for electricity, gas and heat supply options"
+    ]
+  },
+  {
+    "cluster": 13,
+    "tamano": 40,
+    "nombre": "Transiciones energéticas sostenibles y su política",
+    "descripcion": "Estudia las transiciones socio-técnicas hacia energías bajas en carbono, integrando perspectivas multinivel, dimensiones políticas y geográficas del cambio energético.",
+    "titulos_muestra": [
+      "(2014) The Political Economy of Energy Transitions: The Case of South Africa",
+      "(2002) Technological transitions as evolutionary reconfiguration processes: a multi-level perspective and a case-study",
+      "(2012) Geographies of energy transition: Space, place and the low-carbon economy",
+      "(2011) The multi-level perspective on sustainability transitions: Responses to seven criticisms",
+      "EBERHARD A., 2014, SOUTH AFRICA'S RENEWABLE ENERGY IPP PROCUREMENT PROGRAM: SUCCESS FACTORS AND LESSONS",
+      "(2011) Engaging with the politics of sustainability transitions"
+    ]
+  },
+  {
+    "cluster": 17,
+    "tamano": 59,
+    "nombre": "Energía comunitaria y renovable",
+    "descripcion": "Estudio de proyectos energéticos renovables gestionados por comunidades, examinando su organización, barreras, justicia social y potencial transformador del sistema energético.",
+    "titulos_muestra": [
+      "(2013) A thousand flowers blooming? An examination of community energy in the UK",
+      "(2007) Community renewable energy: What should it mean?",
+      "(2014) Renewable energy cooperatives as gatekeepers or facilitators? Recent developments in Germany and a multidisciplinary research agenda",
+      "(2015) Energy justice: A conceptual review",
+      "(2017) Community energy and social entrepreneurship: Addressing purpose, organisation and embeddedness of renewable energy projects",
+      "(2008) What are the barriers and incentives for community-owned means of energy production and use?"
+    ]
+  },
+  {
+    "cluster": 18,
+    "tamano": 50,
+    "nombre": "Riesgo geopolítico y transición energética renovable",
+    "descripcion": "Estudia cómo la incertidumbre geopolítica y política afecta la demanda de energías renovables, la seguridad energética y las transiciones energéticas globales.",
+    "titulos_muestra": [
+      "(2023) The impact of geopolitical risks on renewable energy demand in OECD countries",
+      "(2022) Measuring Geopolitical Risk",
+      "(2023) Measuring the energy-related uncertainty index",
+      "(1996) A test for independence based on the correlation dimension",
+      "(2021) Policy uncertainty and renewable energy: Exploring the implications for global energy transitions, energy security, and environmental risk management",
+      "(2020) Renewable energy and geopolitics: A review"
+    ]
+  }
+]

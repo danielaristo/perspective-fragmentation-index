@@ -1,0 +1,86 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 381,
+    "nombre": "Adaptación al cambio climático y gobernanza",
+    "descripcion": "Analiza la capacidad adaptativa, vulnerabilidad y barreras institucionales para implementar estrategias de adaptación al cambio climático mediante gobernanza multinivel.",
+    "titulos_muestra": [
+      "ADGER WN, 2005, GLOBAL ENVIRON CHANG, V15, P77, DOI [10.1016/J.GLOENVCHA.2005.03.001, 10.1016/J.GLOENVCHA.2004.12.005]",
+      "(2010) A framework to diagnose barriers to climate change adaptation",
+      "(2006) Adaptation, adaptive capacity and vulnerability",
+      "(2010) Europe adapts to climate change: Comparing National Adaptation Strategies",
+      "(2007) Adaptation planning for climate change: concepts, assessment approaches, and key lessons",
+      "(2010) Overcoming Barriers to Climate Change Adaptation—A Question of Multilevel Governance?"
+    ]
+  },
+  {
+    "cluster": 1,
+    "tamano": 148,
+    "nombre": "Evaluación de planes de adaptación climática",
+    "descripcion": "Analiza y compara sistemáticamente los planes y políticas gubernamentales de adaptación al cambio climático, evaluando su implementación y efectividad en diferentes ciudades y países.",
+    "titulos_muestra": [
+      "(2010) Climate adaptation planning in practice: an evaluation of adaptation plans from three developed nations",
+      "(2016) Climate change adaptation planning in large cities: A systematic global assessment",
+      "(2013) Comparing apples and oranges: The dependent variable problem in comparing and evaluating climate change adaptation policies",
+      "(2016) Numerous strategies but limited implementation guidance in US local adaptation plans",
+      "(2019) Tracking global climate change adaptation among governments",
+      "(2015) Institutionalizing the urban governance of climate change adaptation: Results of an international survey"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 84,
+    "nombre": "Barreras en la adaptación climática municipal",
+    "descripcion": "Estudia los obstáculos y facilitadores que enfrentan los gobiernos locales al planificar e implementar estrategias de adaptación al cambio climático urbano.",
+    "titulos_muestra": [
+      "(2011) Adapting to climate change through local municipal planning: barriers and challenges",
+      "(2012) Local government response to the impacts of climate change: An evaluation of local climate adaptation plans",
+      "(2009) Transforming barriers into enablers of action on climate change: Insights from three municipal case studies in British Columbia, Canada",
+      "(2014) Explaining and overcoming barriers to climate change adaptation",
+      "(2014) What enables local governments to mainstream climate change adaptation? Lessons learned from two municipal case studies in the Western Cape, South Africa",
+      "(2014) Climate change and the city: Building capacity for urban adaptation"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 82,
+    "nombre": "Integración de gestión de riesgos y adaptación climática",
+    "descripcion": "Explora la convergencia entre reducción del riesgo de desastres y adaptación al cambio climático, abordando desafíos conceptuales, prácticos e institucionales para su integración.",
+    "titulos_muestra": [
+      "(2023) Climate Change 2022 – Impacts, Adaptation and Vulnerability",
+      "(2010) Integrating disaster risk reduction and climate change adaptation: key challenges—scales, knowledge, and norms",
+      "(2006) Reducing hazard vulnerability: towards a common approach between disaster risk reduction and climate adaptation",
+      "(2006) Disaster risk, climate change and international development: scope for, and challenges to, integration",
+      "(2010) Disaster risk reduction or climate change adaptation: Are we reinventing the wheel?",
+      "(2012) Disaster risk reduction and climate change adaptation in Indonesia"
+    ]
+  },
+  {
+    "cluster": 7,
+    "tamano": 44,
+    "nombre": "Adaptación de la biodiversidad al cambio climático",
+    "descripcion": "Estrategias de gestión y conservación para adaptar ecosistemas y especies frente a los impactos del cambio climático.",
+    "titulos_muestra": [
+      "(2008) Biodiversity management in the face of climate change: A review of 22 years of recommendations",
+      "(2003) Adaptation to climate change in the developing world",
+      "(2007) A Framework for Debate of Assisted Migration in an Era of Climate Change",
+      "(2007) CLIMATE CHANGE AND FORESTS OF THE FUTURE: MANAGING IN THE FACE OF UNCERTAINTY",
+      "(2019) Integrating climate adaptation and biodiversity conservation in the global ocean",
+      "SPITTLEHOUSE D. L., 2003, BC JOURNAL OF ECOSYSTEMS AND MANAGEMENT, V4, P7"
+    ]
+  },
+  {
+    "cluster": 12,
+    "tamano": 277,
+    "nombre": "Adaptación de pequeños agricultores al cambio climático",
+    "descripcion": "Analiza los determinantes de las estrategias de adaptación climática de agricultores y sus impactos en ingresos, seguridad alimentaria y pobreza.",
+    "titulos_muestra": [
+      "(2009) Determinants of farmers’ choice of adaptation methods to climate change in the Nile Basin of Ethiopia",
+      "FIELD CB, 2014, CLIMATE CHANGE 2014: IMPACTS, ADAPTATION, AND VULNERABILITY, PT A: GLOBAL AND SECTORAL ASPECTS, P1",
+      "(2016) Assessing farmer use of climate change adaptation practices and impacts on food security and poverty in Pakistan",
+      "(2017) Response to climate risks among smallholder farmers in Malawi: A multivariate probit assessment of the role of information, household demographics, and farm characteristics",
+      "ABRHAM BELAY ABRHAM BELAY, 2017, AGRICULTURE AND FOOD SECURITY, V6, DOI [10.1186/S40066-017-0100-1, 10.1186/S40066-017-0100-1]",
+      "(2019) Determinants of climate change adaptation strategies and its impact on the net farm income of rice farmers in south-west Nigeria"
+    ]
+  }
+]

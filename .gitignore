@@ -1,0 +1,6 @@
+.llm_key
+campos/
+redes/
+__pycache__/
+*.pyc
+.DS_Store

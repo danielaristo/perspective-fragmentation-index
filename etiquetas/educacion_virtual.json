@@ -1,0 +1,114 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 174,
+    "nombre": "Modelado de ecuaciones estructurales (SEM/PLS)",
+    "descripcion": "Métodos estadísticos multivariados para validar constructos y modelos, aplicados frecuentemente al estudio de aceptación tecnológica.",
+    "titulos_muestra": [
+      "(1981) Structural Equation Models with Unobservable Variables and Measurement Error: Algebra and Statistics",
+      "HAIR JF., 2010, MULTIVARIATE DATA ANALYSIS, V7TH",
+      "(2003) User Acceptance of Information Technology: Toward A Unified View1",
+      "(2018) When to use and how to report the results of PLS-SEM",
+      "DOI:10.4324/9780203771587]",
+      "(1999) Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 48,
+    "nombre": "Éxito y aceptación de sistemas de información",
+    "descripcion": "Evalúa la adopción y el éxito de sistemas de información mediante modelos como TAM y DeLone-McLean, con métodos estructurales.",
+    "titulos_muestra": [
+      "(2014) A new criterion for assessing discriminant validity in variance-based structural equation modeling",
+      "CHIN WW, 1998, QUANT METH SER, P295",
+      "(2003) The DeLone and McLean Model of Information Systems Success: A Ten-Year Update",
+      "(1992) Information Systems Success: The Quest for the Dependent Variable",
+      "(2012) User acceptance of YouTube for procedural learning: An extension of the Technology Acceptance Model",
+      "(2018) An extension of Delone and McLean IS success model with self-efficacy"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 101,
+    "nombre": "Satisfacción y aprendizaje en educación en línea",
+    "descripcion": "Estudia los factores que predicen la satisfacción estudiantil y el aprendizaje percibido en entornos de educación en línea.",
+    "titulos_muestra": [
+      "(2018) Predicting student satisfaction and perceived learning within online learning environments",
+      "DOI:10.20448/journal.509.2020.73.285.292]",
+      "DOI:10.1080/08923648909526659]",
+      "(2013) Interaction, Internet self-efficacy, and self-regulated learning as predictors of student satisfaction in online education courses",
+      "(2016) Enabling School Structures, Trust, and Collective Efficacy in Private International Schools",
+      "(2013) A predictive study of student satisfaction in online education programs"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 66,
+    "nombre": "Compromiso estudiantil en aprendizaje en línea",
+    "descripcion": "Estudia los factores psicológicos y pedagógicos que influyen en el compromiso de los estudiantes en entornos educativos virtuales.",
+    "titulos_muestra": [
+      "(2021) Associations Between Adolescent Mental Health and Health-Related Behaviors in 2005 and 2015: A Population Cross-Cohort Study",
+      "(2018) Engagement Matters: Student Perceptions on the Importance of Engagement Strategies in the Online Learning Environment",
+      "(2018) Online learning in higher education: exploring advantages and disadvantages for engagement",
+      "(2011) Situational interest, computer self‐efficacy and self‐regulation: Their impact on student engagement in distance education",
+      "(2018) Online learning: Adoption, continuance, and learning outcome—A review of literature",
+      "(2021) Applying the self-determination theory (SDT) to explain student engagement in online learning during the COVID-19 pandemic"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 75,
+    "nombre": "Preparación del estudiante para aprendizaje en línea",
+    "descripcion": "Estudia la disposición, autoeficacia y percepciones de los estudiantes que determinan su desempeño y satisfacción en entornos educativos virtuales.",
+    "titulos_muestra": [
+      "(2010) Learner readiness for online learning: Scale development and student perceptions",
+      "(2020) Online learning performance and satisfaction: do perceptions and readiness matter?",
+      "(1977) Self-efficacy: Toward a unifying theory of behavioral change.",
+      "(2020) Online Learning Readiness Among University Students in Malaysia Amidst Covid-19",
+      "DOI:10.1080/01587910303043]",
+      "(2020) Online Learning Readiness"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 49,
+    "nombre": "Comunidad de Indagación en aprendizaje en línea",
+    "descripcion": "Estudia la enseñanza en entornos virtuales mediante presencias cognitiva, social y docente para promover el pensamiento crítico y colaborativo.",
+    "titulos_muestra": [
+      "(1999) Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education",
+      "(2001) Critical thinking, cognitive presence, and computer conferencing in distance education",
+      "(2007) Researching the community of inquiry framework: Review, issues, and future directions",
+      "DOI:10.24059/olj.v5i2.1875]",
+      "(2001) Web-Based Virtual Learning Environments: A Research Framework and a Preliminary Assessment of Effectiveness in Basic it Skills Training1",
+      "GARRISON D.R., 2017, E-LEARNING IN THE 21ST CENTURY. A COMMUNITY OF INQUIRY FRAMEWORK FOR RESEARCH AND PRACTICE, V3"
+    ]
+  },
+  {
+    "cluster": 7,
+    "tamano": 377,
+    "nombre": "Educación en línea durante COVID-19",
+    "descripcion": "Estudia la transición al aprendizaje en línea durante la pandemia, analizando desafíos, oportunidades y percepciones estudiantiles en educación superior.",
+    "titulos_muestra": [
+      "DHAWAN SHIVANGI, 2020, JOURNAL OF EDUCATIONAL TECHNOLOGY SYSTEMS, V49, P5, DOI [10.1177/0047239520934018, 10.1177/0047239520934018]",
+      "(2020) Covid-19 pandemic and online learning: the challenges and opportunities",
+      "(2020) <scp>COVID</scp> ‐19 and online teaching in higher education: A case study of Peking University",
+      "(2020) College students’ use and acceptance of emergency online learning due to COVID-19",
+      "(2020) Online learning amid the COVID-19 pandemic: Students perspectives",
+      "(2019) How Many Ways Can We Define Online Learning? A Systematic Literature Review of Definitions of Online Learning (1988-2018)"
+    ]
+  },
+  {
+    "cluster": 14,
+    "tamano": 71,
+    "nombre": "Educación médica en línea durante COVID-19",
+    "descripcion": "Estudio de las percepciones de estudiantes y docentes sobre el aprendizaje en línea en educación médica durante la pandemia.",
+    "titulos_muestra": [
+      "(2020) The sudden transition to synchronized online learning during the COVID-19 pandemic in Saudi Arabia: a qualitative study exploring medical students’ perspectives",
+      "(2013) Development of a topographical imaging device for the near-planar surfaces of paintings:",
+      "(2020) Students’ and lecturers’ perspective on the implementation of online learning in dental education due to SARS-CoV-2 (COVID-19): a cross-sectional study",
+      "(2020) Perceptions of students regarding E-learning during Covid-19 at a private medical college",
+      "(1998) Film als kunst: Reacties op een nieuw medium in Nederland, 1895 - 1940",
+      "(2020) Perceptions of medical students towards online teaching during the COVID-19 pandemic: a national cross-sectional survey of 2721 UK medical students"
+    ]
+  }
+]

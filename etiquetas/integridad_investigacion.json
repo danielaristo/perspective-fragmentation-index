@@ -1,0 +1,58 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 685,
+    "nombre": "Revistas depredadoras en el acceso abierto",
+    "descripcion": "Estudio de las revistas depredadoras, su definición, prevalencia y características, y sus amenazas a la integridad de la publicación científica.",
+    "titulos_muestra": [
+      "(2019) Predatory journals: no definition, no defence",
+      "(2015) ‘Predatory’ open access: a longitudinal study of article volumes and market characteristics",
+      "(2012) Predatory publishers are corrupting open access",
+      "(2013) Who's Afraid of Peer Review?",
+      "(2017) Potential predatory and legitimate biomedical journals: can you tell the difference? A cross-sectional comparison",
+      "(2014) Who publishes in “predatory” journals?"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 61,
+    "nombre": "Revistas depredadoras y ética editorial",
+    "descripcion": "Analiza la identificación, criterios y dilemas éticos de las revistas depredadoras en el contexto del acceso abierto académico.",
+    "titulos_muestra": [
+      "(2016) Best practices for scholarly authors in the age of predatory journals",
+      "(2017) Time to stop talking about ‘predatory journals’",
+      "(2017) Identifying predatory or pseudo-journals",
+      "(2017) Ethical issues in publishing in predatory journals",
+      "(2013) Predatory publishing is just one of the consequences of gold open access",
+      "BEALL J., 2015, CRITERIA DETERMINING"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 781,
+    "nombre": "Integridad científica y mala conducta investigadora",
+    "descripcion": "Estudia la prevalencia de conductas cuestionables y promueve políticas y principios para fomentar la integridad en la investigación.",
+    "titulos_muestra": [
+      "(2009) How Many Scientists Fabricate and Falsify Research? A Systematic Review and Meta-Analysis of Survey Data",
+      "(2006) Fostering integrity in research: Definitions, current knowledge, and future directions",
+      "(2020) Research integrity: nine ways to move from talk to walk",
+      "(2005) Scientists behaving badly",
+      "(2018) Working with Research Integrity—Guidance for Research Performing Organisations: The Bonn PRINTEGER Statement",
+      "(2020) The Hong Kong Principles for assessing researchers: Fostering research integrity"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 109,
+    "nombre": "Integridad científica y retractación de publicaciones",
+    "descripcion": "Estudia mala conducta investigativa, retractaciones de artículos y métodos para detectar fraude y garantizar fiabilidad en la literatura científica.",
+    "titulos_muestra": [
+      "(2016) The FAIR Guiding Principles for scientific data management and stewardship",
+      "(2012) A Comprehensive Survey of Retracted Articles from the Scholarly Literature",
+      "(2021) Methods to assess research misconduct in health-related research: A scoping review",
+      "(2013) Why Has the Number of Scientific Retractions Increased?",
+      "(2020) False individual patient data and zombie randomised controlled trials submitted to <i>Anaesthesia</i>",
+      "(2023) What do Retraction Notices Reveal About Institutional Investigations into Allegations Underlying Retractions?"
+    ]
+  }
+]

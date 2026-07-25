@@ -1,0 +1,58 @@
+[
+  {
+    "cluster": 2,
+    "tamano": 560,
+    "nombre": "Edición genómica con CRISPR-Cas9",
+    "descripcion": "Desarrollo y aplicación del sistema CRISPR-Cas9 para la ingeniería y edición precisa del genoma en diversos organismos.",
+    "titulos_muestra": [
+      "(2013) RNA-Guided Human Genome Engineering via Cas9",
+      "(2013) DNA targeting specificity of RNA-guided Cas9 nucleases",
+      "(2007) CRISPR Provides Acquired Resistance Against Viruses in Prokaryotes",
+      "(2013) Double Nicking by RNA-Guided CRISPR Cas9 for Enhanced Genome Editing Specificity",
+      "(2014) Development and Applications of CRISPR-Cas9 for Genome Engineering",
+      "(1987) Nucleotide sequence of the iap gene, responsible for alkaline phosphatase isozyme conversion in Escherichia coli, and identification of the gene product"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 517,
+    "nombre": "Edición genómica CRISPR-Cas9 en plantas",
+    "descripcion": "Aplicación de sistemas CRISPR-Cas9 para modificar genomas de cultivos y plantas modelo, mejorando resistencia y capacidad de edición múltiple.",
+    "titulos_muestra": [
+      "(2013) Targeted genome modification of crop plants using a CRISPR-Cas system",
+      "(2013) Targeted mutagenesis in the model plant Nicotiana benthamiana using Cas9 RNA-guided endonuclease",
+      "(2015) DNA-free genome editing in plants with preassembled CRISPR-Cas9 ribonucleoproteins",
+      "(2014) Simultaneous editing of three homoeoalleles in hexaploid bread wheat confers heritable resistance to powdery mildew",
+      "(2013) Demonstration of CRISPR/Cas9/sgRNA-mediated targeted gene modification in Arabidopsis, tobacco, sorghum and rice",
+      "(2015) Boosting CRISPR/Cas9 multiplex editing capability with the endogenous tRNA-processing system"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 656,
+    "nombre": "Edición genómica CRISPR-Cas9 en hongos y microorganismos",
+    "descripcion": "Desarrollo y aplicación del sistema CRISPR-Cas9 para ingeniería genética en bacterias, levaduras y hongos filamentosos.",
+    "titulos_muestra": [
+      "(2012) A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity",
+      "(2013) Multiplex Genome Engineering Using CRISPR/Cas Systems",
+      "(2013) RNA-guided editing of bacterial genomes using CRISPR-Cas systems",
+      "(2013) Genome engineering in Saccharomyces cerevisiae using CRISPR-Cas systems",
+      "(2015) Efficient genome editing in filamentous fungus Trichoderma reesei using the CRISPR/Cas9 system",
+      "(2015) A CRISPR-Cas9 System for Genetic Engineering of Filamentous Fungi"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 370,
+    "nombre": "Edición genómica CRISPR y sistemas de entrega",
+    "descripcion": "Desarrollo de tecnologías CRISPR-Cas9, edición de bases y nanovehículos para entregar componentes de edición genómica in vitro e in vivo.",
+    "titulos_muestra": [
+      "(2014) The new frontier of genome engineering with CRISPR-Cas9",
+      "(2016) Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage",
+      "(2014) Cationic lipid-mediated delivery of proteins enables efficient protein-based genome editing in vitro and in vivo",
+      "(2017) Nanoparticle delivery of Cas9 ribonucleoprotein and donor DNA in vivo induces homology-directed DNA repair",
+      "(2015) Self‐Assembled DNA Nanoclews for the Efficient Delivery of CRISPR–Cas9 for Genome Editing",
+      "(2017) Programmable base editing of A•T to G•C in genomic DNA without DNA cleavage"
+    ]
+  }
+]

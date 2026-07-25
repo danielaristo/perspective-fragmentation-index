@@ -1,0 +1,100 @@
+[
+  {
+    "cluster": 3,
+    "tamano": 171,
+    "nombre": "Genómica de resistencia antimicrobiana",
+    "descripcion": "Herramientas bioinformáticas y bases de datos para detectar y vigilar genéticamente la resistencia antimicrobiana desde una perspectiva One Health.",
+    "titulos_muestra": [
+      "(2014) <i>In Silico</i> Detection and Typing of Plasmids using PlasmidFinder and Plasmid Multilocus Sequence Typing",
+      "(2020) ResFinder 4.0 for predictions of phenotypes from genotypes",
+      "(2014) Prokka: rapid prokaryotic genome annotation",
+      "(2019) Using Genomics to Track Global Antimicrobial Resistance",
+      "(2023) Genomic surveillance for antimicrobial resistance — a One Health perspective",
+      "(2022) CARD 2023: expanded curation, support for machine learning, and resistome prediction at the Comprehensive Antibiotic Resistance Database"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 218,
+    "nombre": "Resistencia antimicrobiana bajo enfoque One Health",
+    "descripcion": "Estudia la emergencia y propagación de resistencia a antibióticos vinculando salud humana, animal y ambiental, incluyendo su uso e impacto.",
+    "titulos_muestra": [
+      "DOI:10.4060/cb5545-n]",
+      "(2015) Global trends in antimicrobial use in food animals",
+      "(2015) Understanding the mechanisms and drivers of antimicrobial resistance",
+      "(2015) Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study",
+      "(2016) Antibiotic resistance is the quintessential One Health issue",
+      "(2018) Attributable deaths and disability-adjusted life-years caused by infections with antibiotic-resistant bacteria in the EU and the European Economic Area in 2015: a population-level modelling analysis"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 143,
+    "nombre": "Resistencia antimicrobiana ambiental y One Health",
+    "descripcion": "Estudio de la propagación de resistencia antimicrobiana en el ambiente, integrando salud humana, animal y ecosistémica bajo enfoques globales.",
+    "titulos_muestra": [
+      "(2018) Mobile Genetic Elements Associated with Antimicrobial Resistance",
+      "(2015) Tackling antibiotic resistance: the environmental framework",
+      "O'NEILL J., 2016, REVIEW ON ANTIMICROBIAL RESISTANCE: TACKLING DRUG-RESISTANT INFECTIONS GLOBALLY: FINAL REPORT AND RECOMMENDATIONS",
+      "(2022) Re: Global Burden of Bacterial Antimicrobial Resistance in 2019: A Systematic Analysis",
+      "(2019) Defining and combating antibiotic resistance from One Health and Global Health perspectives",
+      "(2013) Urban wastewater treatment plants as hotspots for antibiotic resistant bacteria and genes spread into the environment: A review"
+    ]
+  },
+  {
+    "cluster": 13,
+    "tamano": 102,
+    "nombre": "Resistencia antimicrobiana en Neisseria gonorrhoeae",
+    "descripcion": "Vigilancia global y caracterización de la resistencia a antibióticos en gonorrea, ante la amenaza de infecciones intratables.",
+    "titulos_muestra": [
+      "(2014) Antimicrobial Resistance in Neisseria gonorrhoeae in the 21st Century: Past, Evolution, and Future",
+      "(2017) Antimicrobial resistance in Neisseria gonorrhoeae: Global surveillance and a call for international collaborative action",
+      "(2011) Is Neisseria gonorrhoeae Initiating a Future Era of Untreatable Gonorrhea?: Detailed Characterization of the First Strain with High-Level Resistance to Ceftriaxone",
+      "(2011) High-Level Cefixime- and Ceftriaxone-Resistant Neisseria gonorrhoeae in France: Novel<i>penA</i>Mosaic Allele in a Successful International Clone Causes Treatment Failure",
+      "(2016) The novel 2016 WHO<i>Neisseria gonorrhoeae</i>reference strains for global quality assurance of laboratory investigations: phenotypic, genetic and reference genome characterization",
+      "(2019) World Health Organization Global Gonococcal Antimicrobial Surveillance Program (WHO GASP): review of new data and evidence to inform international collaborative actions and research efforts"
+    ]
+  },
+  {
+    "cluster": 16,
+    "tamano": 223,
+    "nombre": "Resistencia antimicrobiana ambiental bajo enfoque One Health",
+    "descripcion": "Estudio de la propagación de la resistencia antimicrobiana en el ambiente, integrando salud humana, animal y ecosistémica mediante metagenómica.",
+    "titulos_muestra": [
+      "(2021) Antibiotic resistance in the environment",
+      "(2019) Global monitoring of antimicrobial resistance based on metagenomics analyses of urban sewage",
+      "MCEWEN SA, 2018, MICROBIOL SPECTR, V6, DOI [10.1128/MICROBIOLSPEC.ARBA-0009-2017, 10.1128/9781555819804.CH24]",
+      "(2011) Antibiotic resistance is ancient",
+      "(2021) Antibiotic resistome from the One-Health perspective: understanding and controlling antimicrobial resistance transmission",
+      "(2019) One Health—Its Importance in Helping to Better Control Antimicrobial Resistance"
+    ]
+  },
+  {
+    "cluster": 18,
+    "tamano": 73,
+    "nombre": "Resistencia antimicrobiana en producción animal",
+    "descripcion": "Estudio de la prevalencia y vigilancia de bacterias resistentes a antimicrobianos en animales de producción y compañía.",
+    "titulos_muestra": [
+      "(2011) Multidrug-resistant, extensively drug-resistant and pandrug-resistant bacteria: an international expert proposal for interim standard definitions for acquired resistance",
+      "(2008) <i>Acinetobacter baumannii</i> : Emergence of a Successful Pathogen",
+      "(2022) Awareness of Antimicrobial Resistance and Associated Factors among Layer Poultry Farmers in Zambia: Implications for Surveillance and Antimicrobial Stewardship Programs",
+      "(2021) Global prevalence and molecular characterization of extended-spectrum β-lactamase producing-Escherichia coli in dogs and cats – A scoping review and meta-analysis",
+      "(2016) Antimicrobial Usage and Antimicrobial Resistance in Animal Production in Southeast Asia: A Review",
+      "(2022) Prevalence and antimicrobial resistance patterns of<i>Enterococcus</i>species isolated from laying hens in Lusaka and Copperbelt provinces of Zambia: a call for AMR surveillance in the poultry sector"
+    ]
+  },
+  {
+    "cluster": 25,
+    "tamano": 327,
+    "nombre": "Carga global de resistencia antimicrobiana",
+    "descripcion": "Estudia el impacto epidemiológico global de la resistencia antimicrobiana, integrando vigilancia, uso de antibióticos y enfoque One Health.",
+    "titulos_muestra": [
+      "(2022) Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis",
+      "(2018) Antibiotic Use in Agriculture and Its Consequential Resistance in Environmental Sources: Potential Public Health Implications",
+      "(2023) Antimicrobial Resistance: A Growing Serious Threat for Global Public Health",
+      "(2021) Surveillance of antimicrobial resistance in low- and middle-income countries: a scattered picture",
+      "(2024) Global burden of bacterial antimicrobial resistance 1990–2021: a systematic analysis with forecasts to 2050",
+      "(2022) Antimicrobial resistance: One Health approach"
+    ]
+  }
+]

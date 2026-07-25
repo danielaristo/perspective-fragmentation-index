@@ -1,0 +1,170 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 102,
+    "nombre": "Public transport quality and accessibility",
+    "descripcion": "Estudia la calidad del servicio, la accesibilidad y las actitudes de los usuarios para atraer viajeros hacia el transporte público.",
+    "titulos_muestra": [
+      "DOI:10.1016/j.jtrangeo.2003.10.005]",
+      "(2010) A methodology for evaluating transit service quality based on subjective and objective measures from the passenger’s point of view",
+      "(2007) Understanding attitudes towards public transport and private car: A qualitative study",
+      "(1959) How Accessibility Shapes Land Use",
+      "(2012) Quality attributes of public transport that attract car users: A research review",
+      "(2009) Quantifying spatial gaps in public transport supply based on social needs"
+    ]
+  },
+  {
+    "cluster": 1,
+    "tamano": 92,
+    "nombre": "Integration of sustainable transport policies",
+    "descripcion": "Estudia cómo diseñar, combinar y transferir instrumentos de política para lograr sistemas de transporte urbano más sostenibles e integrados.",
+    "titulos_muestra": [
+      "(2007) Policy integration: What will it take to achieve more sustainable transport solutions in cities?",
+      "(2012) From Policy Measures to Policy Packages",
+      "(2005) Integrated transport planning in the UK: From concept to reality",
+      "(2010) Part II: Policy instruments for sustainable road transport",
+      "DOI:10.1504/ijgenvi.2006.010889]",
+      "(2010) Policy transfer and learning in the field of transport: A review of concepts and evidence"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 75,
+    "nombre": "Design and optimization of public transport networks",
+    "descripcion": "Métodos para planificar, diseñar y optimizar rutas, líneas y horarios en sistemas de transporte público urbano y ferroviario.",
+    "titulos_muestra": [
+      "(2008) Transit network design and scheduling: A global review",
+      "(2015) Planning, operation, and control of bus transport systems: A literature review",
+      "(1998) Cost optimal allocation of rail passenger lines",
+      "(1980) Evaluation and optimization of urban public transportation networks",
+      "(1986) Bus network design",
+      "(2009) Integrating line planning, timetabling, and vehicle scheduling: a customer-oriented heuristic"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 69,
+    "nombre": "Free public transport and fare policies",
+    "descripcion": "Análisis económico de subsidios, tarifas cero y sus efectos sobre la demanda y eficiencia del transporte público urbano.",
+    "titulos_muestra": [
+      "(2019) Why (not) abolish fares? Exploring the global geography of fare-free public transport",
+      "(2016) The prospects of fare-free public transport: evidence from Tallinn",
+      "MOHRING H, 1972, AM ECON REV, V62, P591",
+      "(2006) The impact of “free” public transport: The case of Brussels",
+      "(2014) Efficiency and Substitutability of Transit Subsidies and Other Urban Transport Policies",
+      "(2014) Public Transport Pricing Policy"
+    ]
+  },
+  {
+    "cluster": 7,
+    "tamano": 243,
+    "nombre": "Sustainable urban mobility plans",
+    "descripcion": "Estudia la planificación e implementación de estrategias de movilidad urbana sostenible, incluyendo participación ciudadana, equidad y reducción de dependencia del automóvil.",
+    "titulos_muestra": [
+      "(2007) The sustainable mobility paradigm",
+      "(2014) Encouraging good practice in the development of Sustainable Urban Mobility Plans",
+      "(2018) The way to sustainable mobility. A comparative analysis of sustainable mobility plans in Spain",
+      "(2014) Citizen and Stakeholder Involvement: A Precondition for Sustainable Urban Mobility",
+      "(2016) Sustainable urban mobility plans: Bridging climate change and equity targets?",
+      "(2016) Reducing car dependence in the heart of Europe: lessons from Germany, Austria, and Switzerland"
+    ]
+  },
+  {
+    "cluster": 10,
+    "tamano": 116,
+    "nombre": "Institutional governance of public transport",
+    "descripcion": "Estudia cómo instituciones formales e informales y estructuras organizativas moldean la gobernanza y coordinación de los sistemas de transporte público.",
+    "titulos_muestra": [
+      "(2017) Questions of governance: Rethinking the study of transportation policy",
+      "(2012) Hybrid steering cultures in the governance of public transport: A successful way to meet demands?",
+      "(2017) The interplay of formal and informal institutions between local and regional authorities when creating well-functioning public transport systems",
+      "(1999) Organisational forms and entrepreneurship in public transport: classifying organisational forms",
+      "GEORGE ALEXANDERL., 2005, CASE STUDIES AND THEORY DEVELOPMENT IN THE SOCIAL SCIENCES",
+      "(2018) The relationship between formal and informal institutions for governance of public transport"
+    ]
+  },
+  {
+    "cluster": 18,
+    "tamano": 78,
+    "nombre": "Fare integration and public transport usage",
+    "descripcion": "Estudia cómo la integración tarifaria, políticas y factores psicosociales influyen en la demanda y el comportamiento de uso del transporte público.",
+    "titulos_muestra": [
+      "(2012) The impact of fare integration on travel behavior and transit ridership",
+      "(2002) Extending the Theory of Planned Behavior: Predicting the Use of Public Transportation<sup>1</sup>",
+      "(2004) Demand and Revenue Implications of an Integrated Public Transport Policy: The Case of Madrid",
+      "(2007) Social context, personal norms and the use of public transportation: Two field studies",
+      "(2003) Improvements and integration of a public transport system: the case of Singapore",
+      "CLEVER R., 1997, TRANSPORTATION RESEARCH RECORD, V1571, P109"
+    ]
+  },
+  {
+    "cluster": 20,
+    "tamano": 48,
+    "nombre": "Mobility analysis with big data",
+    "descripcion": "Uso de datos de tarjetas inteligentes y móviles para inferir patrones de viaje, matrices origen-destino y comportamiento en transporte público.",
+    "titulos_muestra": [
+      "(2011) Smart card data use in public transit: A literature review",
+      "(2016) The promises of big data and small data for travel behavior (aka human mobility) analysis",
+      "(2007) Individual Trip Destination Estimation in a Transit Smart Card Automated Fare Collection System",
+      "(2015) Origin–destination trips by purpose and time of day inferred from mobile phone data",
+      "(2007) Measuring transit use variability with smart-card data",
+      "(2012) Estimation of a disaggregate multimodal public transport Origin–Destination matrix from passive smartcard data from Santiago, Chile"
+    ]
+  },
+  {
+    "cluster": 21,
+    "tamano": 72,
+    "nombre": "Social justice and equity in transport",
+    "descripcion": "Estudia cómo la accesibilidad y movilidad del transporte generan exclusión social e inequidades, integrando teorías éticas para evaluar la justicia distributiva.",
+    "titulos_muestra": [
+      "(2012) Transport and social exclusion: Where are we now?",
+      "(2016) Distributive justice and equity in transportation",
+      "VAN WEE B, 2011, EUR J TRANSP INFRAST, V11, P350",
+      "(2015) A method to evaluate equitable accessibility: combining ethical theories and accessibility-based approaches",
+      "(2012) Transport accessibility and social inequities: a tool for identification of mobility needs and evaluation of transport investments",
+      "(2004) Motility: mobility as capital"
+    ]
+  },
+  {
+    "cluster": 24,
+    "tamano": 55,
+    "nombre": "Psychological factors in transport choice",
+    "descripcion": "Aplica la teoría del comportamiento planificado y el hábito para explicar la elección modal y las intenciones de viaje.",
+    "titulos_muestra": [
+      "(2010) Habitual or reasoned? Using the theory of planned behavior, technology acceptance model, and habit to examine switching intentions toward public transit",
+      "(2003) Choice of Travel Mode in the Theory of Planned Behavior: The Roles of Past Behavior, Habit, and Reasoned Action",
+      "(2004) Car use: lust and must. Instrumental, symbolic and affective motives for car use",
+      "(2014) An extended theory of planned behaviour model of the psychological factors affecting commuters' transport mode use",
+      "(1998) Extending the Theory of Planned Behavior: A Review and Avenues for Further Research",
+      "DOI:10.1016/j.trpro.2020.08.117]"
+    ]
+  },
+  {
+    "cluster": 49,
+    "tamano": 51,
+    "nombre": "Applied Data Envelopment Analysis (DEA)",
+    "descripcion": "Evaluación de eficiencia y asignación de recursos mediante DEA, incluyendo selección de factores y aplicaciones al transporte.",
+    "titulos_muestra": [
+      "(2006) Performance evaluation of bus routes: A provider and passenger perspective",
+      "(2011) Container selection in the presence of partial dual‐role factors",
+      "(2004) Resource Allocation Based on Efficiency Analysis",
+      "DUDOW A., 1998, THESIS LUND U LUND",
+      "LU Z., 2013, ADV CIVIL ENG BUILDI",
+      "[ANONYMOUS], MULTICRITERIA DECISO"
+    ]
+  },
+  {
+    "cluster": 54,
+    "tamano": 60,
+    "nombre": "Multi-criteria decision-making for sustainable transport",
+    "descripcion": "Aplicación de métodos multicriterio (AHP, TOPSIS, lógica difusa) para evaluar y seleccionar soluciones de transporte sostenible y sus políticas.",
+    "titulos_muestra": [
+      "SAATY T.L., 1980, ANALYTIC HIERARCHY P",
+      "(1985) Fuzzy hierarchical analysis",
+      "(2011) Application of fuzzy TOPSIS in evaluating sustainable transportation systems",
+      "(2020) An Integrated Decision Support Model for Evaluating Public Transport Quality",
+      "(2011) A combined AHP-PROMETHEE approach for selecting the most appropriate policy scenario to stimulate a clean vehicle fleet",
+      "(2009) A hybrid approach based on AHP and belief theory for evaluating sustainable transportation solutions"
+    ]
+  }
+]

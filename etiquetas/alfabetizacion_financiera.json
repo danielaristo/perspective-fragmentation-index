@@ -1,0 +1,100 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 361,
+    "nombre": "Medición y conceptualización de la alfabetización financiera",
+    "descripcion": "Estudia cómo definir, medir y evaluar la alfabetización financiera y su relación con comportamientos financieros en distintas poblaciones.",
+    "titulos_muestra": [
+      "(2010) Measuring Financial Literacy",
+      "HILGERT M.A., 2003, FEDERAL RESERVE BULLETIN, V89, P7",
+      "(1998) An Analysis of Personal Financial Literacy Among College Students",
+      "DOI:10.1186/s41937-019-0027-5]",
+      "ROBB CLIFFA., 2011, JOURNAL OF FINANCIAL COUNSELING AND PLANNING, V22",
+      "(2010) Financial Literacy Explicated: The Case for a Clearer Definition in an Increasingly Complex Economy"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 297,
+    "nombre": "Sesgos conductuales en decisiones de inversión",
+    "descripcion": "Estudia cómo heurísticas, sesgos cognitivos y alfabetización financiera influyen en las decisiones de inversión y el desempeño de los inversores.",
+    "titulos_muestra": [
+      "(2009) Financial literacy and investment decisions of UAE investors",
+      "(1979) Prospect Theory: An Analysis of Decision under Risk",
+      "(1974) Judgment under Uncertainty: Heuristics and Biases",
+      "(1981) Structural Equation Models with Unobservable Variables and Measurement Error: Algebra and Statistics",
+      "(2020) Overconfidence heuristic-driven bias in investment decision-making and performance: mediating effects of risk perception and moderating effects of financial literacy",
+      "HAIR JF., 2010, MULTIVARIATE DATA ANALYSIS, V7TH"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 531,
+    "nombre": "Alfabetización financiera y decisiones económicas",
+    "descripcion": "Estudia cómo el conocimiento financiero influye en la planificación para el retiro, la inversión y los comportamientos económicos de los individuos.",
+    "titulos_muestra": [
+      "(2014) The Economic Importance of Financial Literacy: Theory and Evidence",
+      "(2007) Financial Literacy and Stock Market Participation",
+      "(2008) Planning and Financial Literacy: How Do Women Fare?",
+      "(2014) Financial Literacy, Financial Education, and Downstream Financial Behaviors",
+      "(2007) Baby Boomer retirement security: The roles of planning, financial literacy, and housing wealth",
+      "(2007) Financial Literacy and Retirement Preparedness: Evidence and Implications for Financial Education"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 144,
+    "nombre": "Alfabetización financiera y planificación de la jubilación",
+    "descripcion": "Estudia cómo el conocimiento financiero de la población influye en la planificación del retiro y la participación en planes de pensiones.",
+    "titulos_muestra": [
+      "(2011) Financial literacy around the world: an overview",
+      "(2010) Financial Literacy among the Young",
+      "(2011) Financial literacy and retirement planning: the Russian case",
+      "(2011) Financial literacy and pension plan participation in Italy",
+      "(2011) Financial literacy and retirement planning in Japan",
+      "(2019) What determines financial literacy in Japan?"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 104,
+    "nombre": "Alfabetización financiera y participación bursátil",
+    "descripcion": "Estudia cómo la educación financiera y factores psicológicos-actitudinales influyen en las decisiones de inversión y participación en mercados.",
+    "titulos_muestra": [
+      "(2017) Attitudinal factors, financial literacy, and stock market participation",
+      "(1955) A BEHAVIORAL MODEL OF RATIONAL CHOICE",
+      "(2016) Financial literacy in Tunisia: Its determinants and its implications on investment behavior",
+      "(2002) Perceived Behavioral Control, Self‐Efficacy, Locus of Control, and the Theory of Planned Behavior<sup>1</sup>",
+      "(2018) Financial Literacy, Human Capital and Stock Market Participation in Europe",
+      "(2009) The use of partial least squares path modeling in international marketing"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 157,
+    "nombre": "Alfabetización financiera y metodología PLS-SEM",
+    "descripcion": "Estudia determinantes y comportamientos de alfabetización financiera empleando modelos de ecuaciones estructurales basados en varianza (PLS-SEM) y rigor metodológico.",
+    "titulos_muestra": [
+      "(2017) Financial literacy, financial advice, and financial behavior",
+      "(2014) A new criterion for assessing discriminant validity in variance-based structural equation modeling",
+      "(2018) When to use and how to report the results of PLS-SEM",
+      "(2003) Common method biases in behavioral research: A critical review of the literature and recommended remedies.",
+      "(2012) Adolescents’ financial literacy: The role of financial socialization agents, financial experiences, and money attitudes in shaping financial literacy among South Korean youth",
+      "(2011) PLS-SEM: Indeed a Silver Bullet"
+    ]
+  },
+  {
+    "cluster": 11,
+    "tamano": 297,
+    "nombre": "Alfabetización financiera y bienestar financiero",
+    "descripcion": "Estudia cómo el conocimiento financiero, el autocontrol y la autoeficacia influyen en las conductas financieras y el bienestar económico individual.",
+    "titulos_muestra": [
+      "(2020) Financial literacy: A systematic review and bibliometric analysis",
+      "(2017) Financial well-being: A conceptualization and research agenda",
+      "DEW J., 2011, JOURNAL OF FINANCIAL COUNSELING AND PLANNING, V22, P43",
+      "(2022) Impact of financial literacy on financial well-being: a mediational role of financial self-efficacy",
+      "(2017) Does self-control predict financial behavior and financial well-being?",
+      "(2017) How Am I Doing? Perceived Financial Well-Being, Its Potential Antecedents, and Its Relation to Overall Well-Being"
+    ]
+  }
+]

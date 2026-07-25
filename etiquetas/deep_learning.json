@@ -1,0 +1,86 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 221,
+    "nombre": "Deep learning en diagnóstico por imágenes médicas",
+    "descripcion": "Evaluación sistemática de la precisión diagnóstica de modelos de aprendizaje profundo aplicados al análisis de imágenes médicas.",
+    "titulos_muestra": [
+      "(2011) QUADAS-2: A Revised Tool for the Quality Assessment of Diagnostic Accuracy Studies",
+      "(2018) Preferred Reporting Items for a Systematic Review and Meta-analysis of Diagnostic Test Accuracy Studies",
+      "(2015) Deep learning",
+      "(2019) A comparison of deep learning performance against health-care professionals in detecting diseases from medical imaging: a systematic review and meta-analysis",
+      "(2021) The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+      "(2017) A survey on deep learning in medical image analysis"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 48,
+    "nombre": "Detección de hemorragia intracraneal mediante deep learning",
+    "descripcion": "Aplicación de redes neuronales convolucionales para detectar y clasificar automáticamente hemorragias intracraneales en tomografías computarizadas de cráneo.",
+    "titulos_muestra": [
+      "(2021) A deep learning algorithm for automatic detection and classification of acute intracranial hemorrhages in head CT scans",
+      "(2018) Hybrid 3D/2D Convolutional Neural Network for Hemorrhage Evaluation on Head CT",
+      "(2021) A real-world demonstration of machine learning generalizability in the detection of intracranial hemorrhage on head computerized tomography",
+      "(2020) Intracranial Hemorrhage Detection in Head CT Using Double-Branch Convolutional Neural Network, Support Vector Machine, and Random Forest",
+      "(2018) An explainable deep-learning algorithm for the detection of acute intracranial haemorrhage from small datasets",
+      "(2019) Improving Sensitivity on Identification and Delineation of Intracranial Hemorrhage Lesion Using Cascaded Deep Learning Models"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 123,
+    "nombre": "Aprendizaje profundo para visión por computadora",
+    "descripcion": "Arquitecturas de redes neuronales convolucionales para clasificación, segmentación y detección de objetos en imágenes.",
+    "titulos_muestra": [
+      "(2017) ImageNet classification with deep convolutional neural networks",
+      "(2016) Deep Residual Learning for Image Recognition",
+      "(2015) U-Net: Convolutional Networks for Biomedical Image Segmentation",
+      "(2014) Very Deep Convolutional Networks for Large-Scale Image Recognition",
+      "GRAVES A, 2012, STUD COMPUT INTELL, V385, P1, DOI [10.1007/978-3-642-24797-2, 10.1162/NECO.1997.9.1.1]",
+      "(2016) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"
+    ]
+  },
+  {
+    "cluster": 13,
+    "tamano": 55,
+    "nombre": "Radiómica e IA en gliomas cerebrales",
+    "descripcion": "Uso de radiómica y aprendizaje profundo en resonancia magnética para predecir biomarcadores genéticos y clasificar tumores cerebrales.",
+    "titulos_muestra": [
+      "(2021) The 2021 WHO Classification of Tumors of the Central Nervous System: a summary",
+      "(2008) Dissociating verbal and nonverbal audiovisual object processing",
+      "(2022) Combining radiomics and deep convolutional neural network features from preoperative MRI for predicting clinically relevant genetic biomarkers in glioblastoma",
+      "(2017) Radiomics: the bridge between medical imaging and personalized medicine",
+      "(2018) Deep-Learning Convolutional Neural Networks Accurately Classify Genetic Mutations in Gliomas",
+      "(2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII"
+    ]
+  },
+  {
+    "cluster": 15,
+    "tamano": 42,
+    "nombre": "Diagnóstico de COVID-19 mediante deep learning",
+    "descripcion": "Uso de redes neuronales profundas aplicadas a imágenes de TC y radiografías de tórax para detectar y diagnosticar COVID-19.",
+    "titulos_muestra": [
+      "(2020) Using Artificial Intelligence to Detect COVID-19 and Community-acquired Pneumonia Based on Pulmonary CT: Evaluation of the Diagnostic Accuracy",
+      "(2020) Application of deep learning technique to manage COVID-19 in routine clinical practice using CT images: Results of 10 convolutional neural networks",
+      "(2020) A fully automatic deep learning system for COVID-19 diagnostic and prognostic analysis",
+      "(2020) Automated detection of COVID-19 cases using deep neural networks with X-ray images",
+      "(2020) COVID-Net: a tailored deep convolutional neural network design for detection of COVID-19 cases from chest X-ray images",
+      "(2020) Development and evaluation of an artificial intelligence system for COVID-19 diagnosis"
+    ]
+  },
+  {
+    "cluster": 18,
+    "tamano": 25,
+    "nombre": "Deep learning para detección de pérdida ósea periodontal",
+    "descripcion": "Aplicación de redes neuronales convolucionales en radiografías dentales para diagnosticar, medir y estadificar la periodontitis automáticamente.",
+    "titulos_muestra": [
+      "(2020) Deep Learning Hybrid Method to Automatically Diagnose Periodontal Bone Loss and Stage Periodontitis",
+      "(2021) Dental disease detection on periapical radiographs based on deep convolutional neural networks",
+      "(2018) Diagnosis and prediction of periodontally compromised teeth using a deep learning-based convolutional neural network algorithm",
+      "(2023) Automatic recognition of teeth and periodontal bone loss measurement in digital radiographs using deep-learning artificial intelligence",
+      "(2019) Deep Learning for the Radiographic Detection of Periodontal Bone Loss",
+      "(2019) DeNTNet: Deep Neural Transfer Network for the detection of periodontal bone loss using panoramic dental radiographs"
+    ]
+  }
+]

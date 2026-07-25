@@ -1,0 +1,86 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 319,
+    "nombre": "VRP clásico con ventanas de tiempo (perecederos)",
+    "descripcion": "Optimización de rutas de distribución con ventanas de tiempo considerando la perecibilidad de productos alimenticios frescos.",
+    "titulos_muestra": [
+      "(2006) Vehicle routing problem with time-windows for perishable food delivery",
+      "(2007) A vehicle routing algorithm for the distribution of fresh vegetables and similar perishable food",
+      "(2008) Production scheduling and vehicle routing with time windows for perishable food products",
+      "(2015) A vehicle routing problem of both refrigerated- and general-type vehicles for perishable food products delivery",
+      "(1987) Algorithms for the Vehicle Routing and Scheduling Problems with Time Window Constraints",
+      "(2013) The impact of food perishability issues in the vehicle routing problem"
+    ]
+  },
+  {
+    "cluster": 1,
+    "tamano": 71,
+    "nombre": "Huella de carbono en logística general",
+    "descripcion": "Optimización de logística, transporte y almacenamiento para minimizar emisiones de carbono en cadenas de suministro y ruteo vehicular.",
+    "titulos_muestra": [
+      "(2014) Greening the food supply chain: an optimisation model for sustainable design of refrigerated automated warehouses",
+      "[李进 LI JIN], 2014, [系统工程理论与实践, SYSTEMS ENGINEERING-THEORY & PRACTICE], V34, P1779",
+      "AFSHAR-BAKESHLOO M., 2016, JOURNAL OF INDUSTRIAL ENGINEERING INTERNATIONAL, V12, P529, DOI [10.1007/S40092-016-0163-9, 10.1007/S40092-016-0163-9]",
+      "(2016) Measurement, evaluation and minimization of CO2, NO , and CO emissions in the open time dependent vehicle routing problem",
+      "(2016) Changes in CO2 Emissions Induced by Agricultural Inputs in China over 1991–2014",
+      "(2017) On‐Line Vehicle Routing Problems for Carbon Emissions Reduction"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 432,
+    "nombre": "VRP verde en cadena de frío (emisiones de carbono)",
+    "descripcion": "Optimización de rutas de vehículos en logística de frío minimizando emisiones de carbono, consumo de combustible y costos.",
+    "titulos_muestra": [
+      "(1959) The Truck Dispatching Problem",
+      "(2011) Development of a fuel consumption optimization model for the capacitated vehicle routing problem",
+      "(2020) Vehicle routing problem in cold Chain logistics: A joint distribution model with carbon trading mechanisms",
+      "(2017) Optimization of Vehicle Routing Problem with Time Windows for Cold Chain Logistics Based on Carbon Tax",
+      "(2019) A Vehicle Routing Optimization Problem for Cold Chain Logistics Considering Customer Satisfaction and Carbon Emissions",
+      "(2019) Low-carbon cold chain logistics using ribonucleic acid-ant colony optimization algorithm"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 279,
+    "nombre": "Problema de Ruteo de Inventarios (IRP) para perecederos",
+    "descripcion": "Optimización integrada de inventario, reabastecimiento y distribución para productos perecederos considerando sostenibilidad, incertidumbre de demanda y colaboración logística.",
+    "titulos_muestra": [
+      "(2014) Optimal joint replenishment, delivery and inventory management policies for perishable products",
+      "(2015) Considering lost sale in inventory routing problems for perishable goods",
+      "(2015) Modeling an Inventory Routing Problem for perishable products with environmental considerations and demand uncertainty",
+      "(2012) A column generation-based heuristic algorithm for an inventory routing problem with perishable goods",
+      "(2016) Modeling a green inventory routing problem for perishable products with horizontal collaboration",
+      "(2018) Optimal production, replenishment, delivery, routing and inventory management policies for products with perishable inventory"
+    ]
+  },
+  {
+    "cluster": 9,
+    "tamano": 139,
+    "nombre": "Localización-Inventario-Ruteo integrado (LIRP)",
+    "descripcion": "Optimización conjunta de localización, inventario y ruteo mediante metaheurísticas para cadenas de suministro con productos perecederos e incertidumbre.",
+    "titulos_muestra": [
+      "(2014) Two-echelon multiple-vehicle location–routing problem with time windows for optimization of sustainable supply chain network of perishable food",
+      "(2016) A genetic algorithm approach for location-inventory-routing problem with perishable products",
+      "(2017) Modelling and solving the integrated inventory-location-routing problem in a multi-period and multi-perishable product supply chain with uncertainty: Lagrangian relaxation algorithm",
+      "(2016) A hybrid imperialist competitive-simulated annealing algorithm for a multisource multi-product location-routing-inventory problem",
+      "(2014) Solving a new bi-objective location-routing-inventory problem in a distribution network by meta-heuristics",
+      "(2017) An integrated location-inventory-routing humanitarian supply chain network with pre- and post-disaster management considerations"
+    ]
+  },
+  {
+    "cluster": 17,
+    "tamano": 73,
+    "nombre": "Contaminación microbiana de productos frescos",
+    "descripcion": "Estudia la transmisión de patógenos humanos a frutas y verduras frescas mediante agua de riego, estiércol y otras fuentes ambientales.",
+    "titulos_muestra": [
+      "(2010) Fresh fruit and vegetables as vehicles for the transmission of human pathogens",
+      "(2002) Transmission of <i>Escherichia coli</i> O157:H7 from Contaminated Manure and Irrigation Water to Lettuce Plant Tissue and Its Subsequent Internalization",
+      "(2012) Factors influencing the microbial safety of fresh produce: A review",
+      "(2009) The growing burden of foodborne outbreaks due to contaminated fresh produce: risks and opportunities",
+      "(2015) Reported Foodborne Outbreaks Due to Fresh Produce in the United States and European Union: Trends and Causes",
+      "(2004) Irrigation Water as Source of Foodborne Pathogens on Fruit and Vegetables"
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "cluster": 2,
+    "tamano": 231,
+    "nombre": "Blockchain en servicios financieros y bancarios",
+    "descripcion": "Analiza el impacto, beneficios, costos y riesgos de adoptar tecnología blockchain en el sector bancario y financiero.",
+    "titulos_muestra": [
+      "(2020) How Blockchain can impact financial services – The overview, challenges and recommendations from expert interviewees",
+      "(2020) Blockchain for next generation services in banking and finance: cost, benefit, risk and opportunity analysis",
+      "(2020) Measuring the perceived benefits of implementing blockchain technology in the banking sector",
+      "(2019) Blockchain technology and startup financing: A transaction cost economics perspective",
+      "(2017) Blockchain Technology in Finance",
+      "(2020) The state of play of blockchain technology in the financial services sector: A systematic literature review"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 210,
+    "nombre": "Blockchain aplicado a las finanzas de cadena de suministro",
+    "descripcion": "Estudia cómo la tecnología blockchain transforma y optimiza las finanzas y la gestión de las cadenas de suministro.",
+    "titulos_muestra": [
+      "(2020) Supply Chain Finance Innovation Using Blockchain",
+      "(2017) 1 Blockchain’s roles in meeting key supply chain management objectives",
+      "(2020) Supply chain financing using blockchain: impacts on supply chains selling fashionable products",
+      "(2008) Bitcoin: A Peer-to-Peer Electronic Cash System",
+      "(2018) Supply chain finance: A systematic literature review and bibliometric analysis",
+      "(2016) Supply chain finance: a literature review"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 106,
+    "nombre": "Adopción de blockchain mediante marco TOE",
+    "descripcion": "Estudia los determinantes tecnológicos, organizacionales y ambientales que influyen en la adopción de blockchain en cadenas de suministro y finanzas.",
+    "titulos_muestra": [
+      "DOI:10.1016/j.hitech.2021.100417]",
+      "(2003) Common method biases in behavioral research: A critical review of the literature and recommended remedies.",
+      "(2023) Identification and prioritization of the factors influencing blockchain adoption in the banking sector: integrating fuzzy AHP with TOE framework",
+      "(2021) The blockchain-enabled technology and carbon performance: Insights from early adopters",
+      "(2022) Blockchain Technology for Supply Chains operating in emerging markets: an empirical examination of technology-organization-environment (TOE) framework",
+      "(2023) Seizing technological advancement; determinants of blockchain supply chain finance adoption in Ghanaian SMEs"
+    ]
+  },
+  {
+    "cluster": 7,
+    "tamano": 138,
+    "nombre": "Blockchain para cadenas de suministro sostenibles",
+    "descripcion": "Estudia la adopción de blockchain para mejorar trazabilidad, resiliencia y sostenibilidad en la gestión de cadenas de suministro.",
+    "titulos_muestra": [
+      "(2018) Blockchain technology and its relationships to sustainable supply chain management",
+      "(2020) Blockchain technology and the sustainable supply chain: Theoretically exploring adoption barriers",
+      "(2018) Understanding blockchain technology for future supply chains: a systematic literature review and research agenda",
+      "(2019) Blockchain and supply chain management integration: a systematic review of the literature",
+      "(2019) Modeling the blockchain enabled traceability in agriculture supply chain",
+      "(2018) Blockchain technology for enhancing supply chain resilience"
+    ]
+  },
+  {
+    "cluster": 8,
+    "tamano": 120,
+    "nombre": "Blockchain en contabilidad y auditoría",
+    "descripcion": "Estudia cómo la tecnología blockchain transforma las prácticas contables, de auditoría y aseguramiento en el ámbito financiero y corporativo.",
+    "titulos_muestra": [
+      "(2017) Toward Blockchain-Based Accounting and Assurance",
+      "(2016) Corporate Governance and Blockchains",
+      "(2018) Blockchain: The Introduction and Its Application in Financial Accounting",
+      "(2019) Blockchain and its implications for accounting and auditing",
+      "(2022) Accounting and auditing with blockchain technology and artificial Intelligence: A literature review",
+      "(2017) Can Blockchains Serve an Accounting Purpose?"
+    ]
+  },
+  {
+    "cluster": 9,
+    "tamano": 191,
+    "nombre": "Blockchain en cadenas de suministro",
+    "descripcion": "Estudia la adopción de blockchain para mejorar trazabilidad, transparencia, financiación y operaciones en las cadenas de suministro.",
+    "titulos_muestra": [
+      "(2020) On the Financing Benefits of Supply Chain Transparency and Blockchain Adoption",
+      "(2019) OM Forum—Distributed Ledgers and Operations: What Operations Management Researchers Should Know About Blockchain Technology",
+      "(2019) Blockchain for Supply Chain Traceability: Business Requirements and Critical Success Factors",
+      "(2022) Blockchain-Enabled Deep-Tier Supply Chain Finance",
+      "(2020) Blockchain technology in supply chain operations: Applications, challenges and research opportunities",
+      "(2019) Blockchain Disruption and Smart Contracts"
+    ]
+  },
+  {
+    "cluster": 12,
+    "tamano": 376,
+    "nombre": "Adopción de blockchain en negocios y finanzas",
+    "descripcion": "Explora aplicaciones, desafíos y oportunidades de blockchain en banca, cadena de suministro y sectores empresariales, más allá de bitcoin.",
+    "titulos_muestra": [
+      "(2016) Blockchain application and outlook in the banking industry",
+      "(2016) Blockchain beyond bitcoin",
+      "(2018) Blockchain challenges and opportunities: a survey",
+      "(2018) Blockchain adoption challenges in supply chain: An empirical investigation of the main drivers in India and the USA",
+      "(2016) Where Is Current Research on Blockchain Technology?—A Systematic Review",
+      "(2018) Banking with blockchain-ed big data"
+    ]
+  }
+]

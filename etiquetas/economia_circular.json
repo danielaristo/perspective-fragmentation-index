@@ -1,0 +1,72 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 404,
+    "nombre": "Barreras e impulsores de la economía circular",
+    "descripcion": "Analiza los factores que facilitan u obstaculizan la adopción de modelos de economía circular en empresas, regiones y cadenas de suministro.",
+    "titulos_muestra": [
+      "(2018) Barriers to the Circular Economy: Evidence From the European Union (EU)",
+      "(2018) A systematic review on drivers, barriers, and practices towards circular economy: a supply chain perspective",
+      "(2017) Lost in Transition? Drivers and Barriers in the Eco-innovation Road to the Circular Economy",
+      "(2016) Implementation of Circular Economy Business Models by Small and Medium-Sized Enterprises (SMEs): Barriers and Enablers",
+      "(2018) Unlocking circular business: A framework of barriers and drivers",
+      "(2017) Exploring institutional drivers and barriers of the circular economy: A cross-regional comparison of China, the US, and Europe"
+    ]
+  },
+  {
+    "cluster": 1,
+    "tamano": 930,
+    "nombre": "Fundamentos conceptuales de la economía circular",
+    "descripcion": "Aborda definiciones, principios y transición hacia la economía circular, integrando sostenibilidad ambiental, modelos de negocio y diseño de productos.",
+    "titulos_muestra": [
+      "KIRCHHERR J, 2017, RESOUR CONSERV RECY, V127, P221, DOI [10.33002/NR2581.6853.070207, 10.1016/J.RESCONREC.2017.09.005]",
+      "(2015) A review on circular economy: the expected transition to a balanced interplay of environmental and economic systems",
+      "(2016) The Circular Economy – A new sustainability paradigm?",
+      "(2017) Circular Economy: The Concept and its Limitations",
+      "(2015) Towards circular economy implementation: a comprehensive review in context of manufacturing industry",
+      "(2016) Product design and business model strategies for a circular economy"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 233,
+    "nombre": "Barreras a la economía circular en construcción",
+    "descripcion": "Estudio de obstáculos, facilitadores y desafíos para adoptar la economía circular en el sector de la construcción y demolición.",
+    "titulos_muestra": [
+      "(2018) Prioritizing barriers to adopt circular economy in construction and demolition waste management",
+      "(2019) Barriers and drivers in a circular economy: the case of the built environment",
+      "(2017) Circular economy in construction: current awareness, challenges and enablers",
+      "(2020) Current state and barriers to the circular economy in the building sector: Towards a mitigation framework",
+      "(2016) Circular economy for the built environment: A research framework",
+      "(2021) Circular economy in the construction industry: An overview of United States stakeholders’ awareness, major challenges, and enablers"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 205,
+    "nombre": "Economía circular y cadenas de suministro sostenibles",
+    "descripcion": "Estudia la transición hacia la economía circular, con énfasis en su implementación en China y en cadenas de suministro sostenibles.",
+    "titulos_muestra": [
+      "(2012) A review of the circular economy in China: moving from rhetoric to implementation",
+      "(2015) Sustainable supply chain management and the transition towards a circular economy: Evidence and some applications",
+      "(2006) The Circular Economy: A New Development Strategy in China",
+      "(2014) An exploration of firms’ awareness and behavior of developing circular economy: An empirical research in China",
+      "(2008) Developing the circular economy in China: Challenges and opportunities for achieving 'leapfrog development'",
+      "(2013) Product services for a resource-efficient and circular economy – a review"
+    ]
+  },
+  {
+    "cluster": 7,
+    "tamano": 135,
+    "nombre": "Industria 4.0 para la economía circular",
+    "descripcion": "Estudia cómo las tecnologías digitales de la Industria 4.0 habilitan estrategias de economía circular y cadenas de suministro sostenibles en la manufactura.",
+    "titulos_muestra": [
+      "(2018) Industry 4.0 and the circular economy: a proposed research agenda and original roadmap for sustainable operations",
+      "(2018) Exploring How Usage-Focused Business Models Enable Circular Economy through Digital Technologies",
+      "(2021) Blockchain technology and the circular economy: Implications for sustainability and social responsibility",
+      "(2019) Assessing relations between Circular Economy and Industry 4.0: a systematic literature review",
+      "(2020) A framework to overcome sustainable supply chain challenges through solution measures of industry 4.0 and circular economy: An automotive case",
+      "(2020) The smart circular economy: A digital-enabled circular strategies framework for manufacturing companies"
+    ]
+  }
+]

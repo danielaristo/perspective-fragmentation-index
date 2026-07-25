@@ -1,0 +1,100 @@
+[
+  {
+    "cluster": 1,
+    "tamano": 162,
+    "nombre": "Alfabetización en salud mental y búsqueda de ayuda",
+    "descripcion": "Estudia el conocimiento público sobre trastornos mentales y las barreras que dificultan la búsqueda de ayuda profesional, especialmente en jóvenes.",
+    "titulos_muestra": [
+      "(2005) Lifetime Prevalence and Age-of-Onset Distributions of DSM-IV Disorders in the National Comorbidity Survey Replication",
+      "(1997) “Mental health literacy”: a survey of the public's ability to recognise mental disorders and their beliefs about the effectiveness of treatment",
+      "(2016) Mental Health Literacy",
+      "(2010) Perceived barriers and facilitators to mental health help-seeking in young people: a systematic review",
+      "(2011) Mental health literacy: Empowering the community to take action for better mental health.",
+      "(2020) Why do children and adolescents (not) seek and access professional help for their mental health problems? A systematic review of quantitative and qualitative studies"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 56,
+    "nombre": "Medición de ansiedad y depresión en adolescentes",
+    "descripcion": "Evaluación psicométrica de trastornos de ansiedad y depresión mediante instrumentos estandarizados y plataformas de datos en poblaciones jóvenes.",
+    "titulos_muestra": [
+      "(2011) La iglesia de San Pedro el Viejo de Madrid. Etapas constructivas, intervenciones y estado actual",
+      "(2001) The PHQ-9",
+      "MOSSMAN SA, 2017, ANN CLIN PSYCHIATRY, V29, P227",
+      "(2014) The COMPASS study: a longitudinal hierarchical research platform for evaluating natural experiments related to changes in school-level programs, policies and built environment resources",
+      "(2018) Psychometric properties of the 7-item Generalized Anxiety Disorder Scale (GAD-7) in a large representative sample of Finnish adolescents",
+      "(2008) Research electronic data capture (REDCap)—A metadata-driven methodology and workflow process for providing translational research informatics support"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 160,
+    "nombre": "Salud mental infantil y factores escolares",
+    "descripcion": "Estudia problemas de salud mental en niños y adolescentes, sus determinantes socioeconómicos y escolares, mediante instrumentos psicométricos validados.",
+    "titulos_muestra": [
+      "(1997) The Strengths and Difficulties Questionnaire: A Research Note",
+      "(2021) Impact of the COVID-19 pandemic on quality of life and mental health in children and adolescents in Germany",
+      "(2013) Socioeconomic inequalities and mental health problems in children and adolescents: A systematic review",
+      "(2001) Psychometric Properties of the Strengths and Difficulties Questionnaire",
+      "(2006) School Connectedness Is an Underemphasized Parameter in Adolescent Mental Health: Results of a Community Prediction Study",
+      "(1993) The psychological sense of school membership among adolescents: Scale development and educational correlates"
+    ]
+  },
+  {
+    "cluster": 9,
+    "tamano": 158,
+    "nombre": "Salud mental adolescente y clima escolar",
+    "descripcion": "Estudia la salud mental juvenil global e intervenciones escolares para promover el bienestar y mejorar resultados en adolescentes.",
+    "titulos_muestra": [
+      "(2011) Child and adolescent mental health worldwide: evidence for action",
+      "(2016) Our future: a Lancet commission on adolescent health and wellbeing",
+      "(2007) Mental health of young people: a global public-health challenge",
+      "(1998) The strengths and difficulties questionnaire: A pilot study on the validity of the self-report version",
+      "(2018) Promoting school climate and health outcomes with the SEHER multi-component secondary school intervention in Bihar, India: a cluster-randomised controlled trial",
+      "(2018) The relationships between school climate and adolescent mental health and wellbeing: A systematic literature review"
+    ]
+  },
+  {
+    "cluster": 12,
+    "tamano": 315,
+    "nombre": "Salud mental adolescente durante COVID-19",
+    "descripcion": "Estudia el impacto de la pandemia, el aislamiento social y el confinamiento en la salud mental de niños y adolescentes.",
+    "titulos_muestra": [
+      "(2020) Risk and Protective Factors for Prospective Changes in Adolescent Mental Health during the COVID-19 Pandemic",
+      "(2020) Rapid Systematic Review: The Impact of Social Isolation and Loneliness on the Mental Health of Children and Adolescents in the Context of COVID-19",
+      "(2021) Global Prevalence of Depressive and Anxiety Symptoms in Children and Adolescents During COVID-19",
+      "(2021) The impact of COVID-19 lockdown on child and adolescent mental health: systematic review",
+      "(2020) The effects of social deprivation on adolescent development and mental health",
+      "(2021) Review: Mental health impacts of the COVID‐19 pandemic on children and youth – a systematic review"
+    ]
+  },
+  {
+    "cluster": 14,
+    "tamano": 246,
+    "nombre": "Salud mental infantil durante COVID-19",
+    "descripcion": "Estudia el impacto psicológico de la pandemia y el confinamiento en la salud mental de niños y adolescentes.",
+    "titulos_muestra": [
+      "(2020) Prevalence and socio-demographic correlates of psychological health problems in Chinese adolescents during the outbreak of COVID-19",
+      "(2020) Mental Health Status Among Children in Home Confinement During the Coronavirus Disease 2019 Outbreak in Hubei Province, China",
+      "(2020) Mental health effects of school closures during COVID-19",
+      "(2020) An investigation of mental health status of children and adolescents in china during the outbreak of COVID-19",
+      "(2020) Challenges and burden of the Coronavirus 2019 (COVID-19) pandemic for child and adolescent mental health: a narrative review to highlight clinical and research needs in the acute phase and the long return to normality",
+      "(2020) Behavioral and Emotional Disorders in Children during the COVID-19 Epidemic"
+    ]
+  },
+  {
+    "cluster": 20,
+    "tamano": 41,
+    "nombre": "Sentido de pertenencia escolar en adolescentes",
+    "descripcion": "Estudia cómo la pertenencia escolar influye en la motivación académica, el bienestar emocional y la salud mental de estudiantes.",
+    "titulos_muestra": [
+      "(2000) Students' Need for Belonging in the School Community",
+      "(2011) Water deficit improved the capacity of arbuscular mycorrhizal fungi (AMF) for inducing the accumulation of antioxidant compounds in lettuce leaves",
+      "(1993) The Relationship of School Belonging and Friends' Values to Academic Motivation Among Urban Adolescent Students",
+      "(2016) Initial Development and Validation of the School Belongingness Scale",
+      "(2011) A Prospective Study Investigating the Impact of School Belonging Factors on Negative Affect in Adolescents",
+      "(1990) Responses to Social Exclusion: Social Anxiety, Jealousy, Loneliness, Depression, and Low Self-Esteem"
+    ]
+  }
+]

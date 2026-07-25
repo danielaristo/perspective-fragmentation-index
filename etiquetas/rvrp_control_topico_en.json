@@ -1,0 +1,100 @@
+[
+  {
+    "cluster": 1,
+    "tamano": 557,
+    "nombre": "Low-carbon cold-chain vehicle routing",
+    "descripcion": "Optimización de rutas de distribución en cadena de frío considerando emisiones de carbono, ventanas de tiempo y consumo de combustible.",
+    "titulos_muestra": [
+      "(1987) Algorithms for the Vehicle Routing and Scheduling Problems with Time Window Constraints",
+      "(2020) Vehicle routing problem in cold Chain logistics: A joint distribution model with carbon trading mechanisms",
+      "(2017) Optimization of Vehicle Routing Problem with Time Windows for Cold Chain Logistics Based on Carbon Tax",
+      "(2018) Optimization of Location–Routing Problem for Cold Chain Logistics Considering Carbon Footprint",
+      "(2019) Low-carbon cold chain logistics using ribonucleic acid-ant colony optimization algorithm",
+      "(2011) Development of a fuel consumption optimization model for the capacitated vehicle routing problem"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 499,
+    "nombre": "Vehicle routing for perishable food",
+    "descripcion": "Optimización de rutas de distribución con ventanas de tiempo para entregar alimentos perecederos preservando su calidad y frescura.",
+    "titulos_muestra": [
+      "(2006) Vehicle routing problem with time-windows for perishable food delivery",
+      "(2008) Production scheduling and vehicle routing with time windows for perishable food products",
+      "(2007) A vehicle routing algorithm for the distribution of fresh vegetables and similar perishable food",
+      "(2013) The impact of food perishability issues in the vehicle routing problem",
+      "(2015) A vehicle routing problem of both refrigerated- and general-type vehicles for perishable food products delivery",
+      "(2014) Two-echelon multiple-vehicle location–routing problem with time windows for optimization of sustainable supply chain network of perishable food"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 118,
+    "nombre": "Green, multi-compartment vehicle routing",
+    "descripcion": "Optimización de rutas de vehículos que integra reducción de emisiones contaminantes y distribución con múltiples compartimentos para diferentes productos.",
+    "titulos_muestra": [
+      "(2011) The Pollution-Routing Problem",
+      "(2012) An adaptive large neighborhood search heuristic for the Pollution-Routing Problem",
+      "(2019) A multi-compartment vehicle routing problem in cold-chain distribution",
+      "(2018) Vehicle selection for a multi-compartment vehicle routing problem",
+      "(2013) An ant colony algorithm for the multi-compartment vehicle routing problem",
+      "(2013) The time-dependent pollution-routing problem"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 217,
+    "nombre": "Integrated Production-Inventory-Routing (PIRP)",
+    "descripcion": "Optimización integrada de inventario, producción y distribución para productos perecederos considerando incertidumbre de demanda y restricciones operativas.",
+    "titulos_muestra": [
+      "(2015) Modeling an Inventory Routing Problem for perishable products with environmental considerations and demand uncertainty",
+      "(2015) Considering lost sale in inventory routing problems for perishable goods",
+      "(2012) A column generation-based heuristic algorithm for an inventory routing problem with perishable goods",
+      "(2018) Solving a large multi-product production-routing problem with delivery time windows",
+      "(2017) Production-inventory-routing coordination with capacity and time window constraints for perishable products: Heuristic and meta-heuristic algorithms",
+      "(1986) An Allocation and Distribution Model for Perishable Products"
+    ]
+  },
+  {
+    "cluster": 7,
+    "tamano": 141,
+    "nombre": "Classical and collaborative Inventory Routing Problem (IRP)",
+    "descripcion": "Integra decisiones de inventario y ruteo de vehículos para optimizar la distribución de productos perecederos, considerando colaboración y sostenibilidad.",
+    "titulos_muestra": [
+      "(2016) Modeling a green inventory routing problem for perishable products with horizontal collaboration",
+      "(2014) Optimal joint replenishment, delivery and inventory management policies for perishable products",
+      "(2013) Thirty Years of Inventory Routing",
+      "(2016) A genetic algorithm-Taguchi based approach to inventory routing problem of a single perishable product with transshipment",
+      "(2015) The vehicle routing problem: State of the art classification and review",
+      "(2009) Industrial aspects and literature survey: Combined inventory management and routing"
+    ]
+  },
+  {
+    "cluster": 9,
+    "tamano": 259,
+    "nombre": "Metaheuristics for vehicle routing problems",
+    "descripcion": "Desarrollo de heurísticas y metaheurísticas para resolver problemas de ruteo y recogida-entrega de vehículos con restricciones.",
+    "titulos_muestra": [
+      "(1959) The Truck Dispatching Problem",
+      "(2006) An Adaptive Large Neighborhood Search Heuristic for the Pickup and Delivery Problem with Time Windows",
+      "SHAW P, 1998, LECT NOTES COMPUT SC, V1520, P417",
+      "(2005) A general heuristic for vehicle routing problems",
+      "(1997) Variable neighborhood search",
+      "(1983) Optimization by Simulated Annealing"
+    ]
+  },
+  {
+    "cluster": 37,
+    "tamano": 112,
+    "nombre": "Integrated location-routing-inventory problem",
+    "descripcion": "Optimización conjunta de decisiones de localización, ruteo e inventario en cadenas de suministro, incluyendo productos perecederos y demanda incierta.",
+    "titulos_muestra": [
+      "(2016) A genetic algorithm approach for location-inventory-routing problem with perishable products",
+      "(2006) Location-routing: Issues, models and methods",
+      "(2017) Modelling and solving the integrated inventory-location-routing problem in a multi-period and multi-perishable product supply chain with uncertainty: Lagrangian relaxation algorithm",
+      "(2009) Incorporating location, routing and inventory decisions in supply chain network design",
+      "(2016) A New Bi-Objective Location-Routing-Inventory Problem with Fuzzy Demands",
+      "(2018) Two-echelon location-routing optimization with time windows based on customer clustering"
+    ]
+  }
+]

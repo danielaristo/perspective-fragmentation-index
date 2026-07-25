@@ -1,0 +1,128 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 301,
+    "nombre": "Robótica agrícola y aprendizaje profundo",
+    "descripcion": "Integración de robots autónomos y deep learning para operaciones de campo como cosecha, fumigación y manejo de malezas en agricultura de precisión.",
+    "titulos_muestra": [
+      "(2018) Deep learning in agriculture: A survey",
+      "(2020) An Extensive Review of Mobile Agricultural Robotics for Field Operations: Focus on Cotton Harvesting",
+      "(2020) Agricultural Robotics for Field Operations",
+      "(2019) A Small Versatile Electrical Robot for Autonomous Spraying in Agriculture",
+      "(2016) Agricultural robots for field operations: Concepts and components",
+      "(2023) Applications of deep learning in precision weed management: A review"
+    ]
+  },
+  {
+    "cluster": 1,
+    "tamano": 230,
+    "nombre": "Tecnologías inteligentes para agricultura de precisión",
+    "descripcion": "Integración de sensores, IoT, drones y aprendizaje automático para optimizar el monitoreo y la gestión de cultivos.",
+    "titulos_muestra": [
+      "(2020) Internet of Things (IoT) and Agricultural Unmanned Aerial Vehicles (UAVs) in smart farming: A comprehensive review",
+      "(2018) Machine Learning in Agriculture: A Review",
+      "(2017) Energy-Efficient Wireless Sensor Networks for Precision Agriculture: A Review",
+      "(2018) Machine learning approaches for crop yield prediction and nitrogen status estimation in precision agriculture: A review",
+      "(2004) On-the-go soil sensors for precision agriculture",
+      "(2020) Recent Advances of Hyperspectral Imaging Technology and Applications in Agriculture"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 773,
+    "nombre": "Agricultura de precisión con teledetección y drones",
+    "descripcion": "Uso de UAVs, teledetección y aprendizaje automático para optimizar prácticas agrícolas mediante monitoreo preciso de cultivos.",
+    "titulos_muestra": [
+      "(2019) A Review on UAV-Based Applications for Precision Agriculture",
+      "(2012) Twenty five years of remote sensing in precision agriculture: Key advances and remaining knowledge gaps",
+      "(2020) Machine Learning Applications for Precision Agriculture: A Comprehensive Review",
+      "(2019) Precision Agriculture Techniques and Practices: From Considerations to Applications",
+      "(2018) Perspectives for Remote Sensing with Unmanned Aerial Vehicles in Precision Agriculture",
+      "(2023) The Path to Smart Farming: Innovations and Opportunities in Precision Agriculture"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 565,
+    "nombre": "Adopción de tecnologías de agricultura de precisión",
+    "descripcion": "Estudia los factores y determinantes que influyen en la adopción de tecnologías de agricultura de precisión por parte de agricultores.",
+    "titulos_muestra": [
+      "(2013) Drivers of Precision Agriculture Technologies Adoption: A Literature Review",
+      "(2018) Exploring the adoption of precision agricultural technologies: A cross regional study of EU farmers",
+      "(2012) Factors influencing the adoption of precision agricultural technologies: a review for policy implications",
+      "(2019) Setting the Record Straight on Precision Agriculture Adoption",
+      "(2016) Adoption of precision agriculture technologies by German crop farmers",
+      "(2002) Precision agriculture—a worldwide overview"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 213,
+    "nombre": "Sensores vestibles para agricultura de precisión",
+    "descripcion": "Desarrollo de biosensores flexibles aplicados a plantas para monitorear en tiempo real pesticidas, compuestos volátiles y estrés vegetal en cultivos.",
+    "titulos_muestra": [
+      "(2021) Soil Sensors and Plant Wearables for Smart and Precision Agriculture",
+      "(2021) Wearable sensors made with solution-blow spinning poly(lactic acid) for non-enzymatic pesticide detection in agriculture and food safety",
+      "(2020) Smart plant-wearable biosensor for in-situ pesticide analysis",
+      "(2022) Wearable Plant Sensor for In Situ Monitoring of Volatile Organic Compound Emissions from Crops",
+      "(2020) Multimodal Plant Healthcare Flexible Sensor System",
+      "(2021) Real-time monitoring of plant stresses via chemiresistive profiling of leaf volatiles by a wearable sensor"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 199,
+    "nombre": "Redes de sensores inalámbricos en agricultura de precisión",
+    "descripcion": "Aplicación de redes de sensores inalámbricos para monitoreo ambiental, gestión eficiente del riego y producción agrícola de precisión.",
+    "titulos_muestra": [
+      "(2015) Wireless sensor networks for agriculture: The state-of-the-art in practice and future challenges",
+      "(2014) Environmental parameters monitoring in precision agriculture using wireless sensor networks",
+      "(2011) A review of wireless sensors and networks' applications in agriculture",
+      "(2014) A wireless sensors architecture for efficient irrigation water management",
+      "(2013) Automated Irrigation System Using a Wireless Sensor Network and GPRS Module",
+      "(2010) Sensing technologies for precision specialty crop production"
+    ]
+  },
+  {
+    "cluster": 7,
+    "tamano": 130,
+    "nombre": "Sensores espectroscópicos para análisis de suelos",
+    "descripcion": "Uso de espectroscopía VIS-NIR y sensores in situ para medir propiedades y nutrientes del suelo en tiempo real.",
+    "titulos_muestra": [
+      "(2006) On-line measurement of some selected soil properties using a VIS–NIR sensor",
+      "(2012) Using a mobile real-time soil visible-near infrared sensor for high resolution soil property mapping",
+      "(2001) Application of ion sensitive field effect transistor based sensors to soil analysis",
+      "(2005) Visible, near infrared, mid infrared or combined diffuse reflectance spectroscopy for simultaneous assessment of various soil properties",
+      "(2020) Review—The “Real-Time” Revolution for In situ Soil Nutrient Sensing",
+      "(2001) Near‐Infrared Reflectance Spectroscopy–Principal Components Regression Analyses of Soil Properties"
+    ]
+  },
+  {
+    "cluster": 8,
+    "tamano": 142,
+    "nombre": "Agricultura de precisión con inteligencia artificial",
+    "descripcion": "Aplicación de aprendizaje profundo, teledetección e IoT para detectar malezas, enfermedades y optimizar cultivos en agricultura de precisión.",
+    "titulos_muestra": [
+      "(2020) Applications of Remote Sensing in Precision Agriculture: A Review",
+      "(2017) Weed detection in soybean crops using ConvNets",
+      "(2018) Deep learning models for plant disease detection and diagnosis",
+      "(2018) An Overview of Internet of Things (IoT) and Data Analytics in Agriculture: Benefits and Challenges",
+      "(2016) Using Deep Learning for Image-Based Plant Disease Detection",
+      "(2020) Real-time weed-crop classification and localisation technique for robotic weed control in lettuce"
+    ]
+  },
+  {
+    "cluster": 10,
+    "tamano": 134,
+    "nombre": "Teledetección con drones para agricultura de precisión",
+    "descripcion": "Uso de vehículos aéreos no tripulados e imágenes multiespectrales para monitorear cultivos, estrés hídrico y estado nutricional en agricultura de precisión.",
+    "titulos_muestra": [
+      "(2000) Implementing Precision Agriculture in the 21st Century",
+      "(2003) Remote sensing applications for precision agriculture: A learning community approach",
+      "(2011) Fluorescence, temperature and narrow-band indices acquired from a UAV platform for water stress detection using a micro-hyperspectral imager and a thermal camera",
+      "(2012) A flexible unmanned aerial vehicle for precision agriculture",
+      "(2008) Assessment of Unmanned Aerial Vehicles Imagery for Quantitative Monitoring of Wheat Crop in Small Plots",
+      "(2005) Evaluation of Digital Photography from Model Aircraft for Remote Sensing of Crop Biomass and Nitrogen Status"
+    ]
+  }
+]

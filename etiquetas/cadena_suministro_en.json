@@ -1,0 +1,44 @@
+[
+  {
+    "cluster": 1,
+    "tamano": 864,
+    "nombre": "Theoretical foundations of resilience (2005-2014)",
+    "descripcion": "Estudia cómo las cadenas de suministro anticipan, resisten y se recuperan ante disrupciones y riesgos, fortaleciendo su robustez.",
+    "titulos_muestra": [
+      "DOI:10.1108/09574090410700275]",
+      "(2009) Understanding the concept of supply chain resilience",
+      "(2014) Firm's resilience to supply chain disruptions: Scale development and empirical examination",
+      "(2020) Can supply chain risk management practices mitigate the disruption impacts on supply chains’ resilience and robustness? Evidence from an empirical survey in a COVID-19 outbreak era",
+      "SHEFFI Y, 2005, MIT SLOAN MANAGE REV, V47, P41",
+      "(2011) Supply chain resilience in the global financial crisis: an empirical study"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 596,
+    "nombre": "Risk management tradition (2004-2015)",
+    "descripcion": "Estudia la identificación, evaluación y mitigación de riesgos y disrupciones que afectan la continuidad de las cadenas de suministro globales.",
+    "titulos_muestra": [
+      "DOI:10.1080/13675560",
+      "(2006) Perspectives in supply chain risk management",
+      "(2005) Managing Disruption Risks in Supply Chains",
+      "(2008) Global supply chain risk management strategies",
+      "(2015) Supply chain risk management: a literature review",
+      "CHOPRA S, 2004, MIT SLOAN MANAGE REV, V46, P53"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 390,
+    "nombre": "Quantitative wave: COVID-19 and Industry 4.0 (2018-2020)",
+    "descripcion": "Estudia métodos y capacidades para anticipar, resistir y recuperar cadenas de suministro ante disrupciones como COVID-19 e Industria 4.0.",
+    "titulos_muestra": [
+      "(2020) Viability of intertwined supply networks: extending the supply chain resilience angles towards survivability. A position paper motivated by COVID-19 outbreak",
+      "(2019) Review of quantitative methods for supply chain resilience analysis",
+      "(2018) A review of supply chain risk management: definition, theory, and research agenda",
+      "(2019) Empirical investigation of data analytics capability and organizational flexibility as complements to supply chain resilience",
+      "(2020) A digital supply chain twin for managing the disruption risks and resilience in the era of Industry 4.0",
+      "(2020) Manufacturing and service supply chain resilience to the COVID-19 outbreak: Lessons learned from the automobile and airline industries"
+    ]
+  }
+]

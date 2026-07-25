@@ -1,0 +1,72 @@
+[
+  {
+    "cluster": 1,
+    "tamano": 640,
+    "nombre": "Ética y principios de la inteligencia artificial",
+    "descripcion": "Análisis de directrices éticas para la IA y los desafíos de traducir principios abstractos en prácticas concretas y aplicables.",
+    "titulos_muestra": [
+      "(2019) The global landscape of AI ethics guidelines",
+      "(2018) AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations",
+      "(2020) The Ethics of AI Ethics: An Evaluation of Guidelines",
+      "(2019) Principles alone cannot guarantee ethical AI",
+      "(2019) From What to How: An Initial Review of Publicly Available AI Ethics Tools, Methods and Research to Translate Principles into Practices",
+      "DOI:10.2139/ssrn.3518482]"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 41,
+    "nombre": "IA ética, justa e interpretable",
+    "descripcion": "Estudia la equidad, transparencia e interpretabilidad de modelos de aprendizaje automático para mitigar sesgos en decisiones de alto impacto.",
+    "titulos_muestra": [
+      "(2019) Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead",
+      "(2021) On the Dangers of Stochastic Parrots",
+      "LUNDBERG SM, 2017, ADV NEUR IN, V30",
+      "(2017) Algorithmic Decision Making and the Cost of Fairness",
+      "(2021) The AI gambit: leveraging artificial intelligence to combat climate change—opportunities, challenges, and recommendations",
+      "(2023) Bias and Unfairness in Machine Learning Models: A Systematic Review on Datasets, Tools, Fairness Metrics, and Identification and Mitigation Methods"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 92,
+    "nombre": "Ética y gobernanza de la inteligencia artificial",
+    "descripcion": "Explora dilemas morales, equidad, transparencia y explicabilidad en el diseño y despliegue responsable de sistemas de inteligencia artificial.",
+    "titulos_muestra": [
+      "(2022) The Ethics of AI Ethics. A Constructive Critique",
+      "(2018) The Moral Machine experiment",
+      "2015, CHOICE, V52, P52, DOI [10.5860/CHOICE.190706, 10.4159/HARVARD.9780674736061]",
+      "(2019) Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
+      "BOSTROM N, 2014, CAMBRIDGE HANDBOOK OF ARTIFICIAL INTELLIGENCE, P316",
+      "(2019) Fairness and Abstraction in Sociotechnical Systems"
+    ]
+  },
+  {
+    "cluster": 8,
+    "tamano": 60,
+    "nombre": "Inteligencia artificial en medicina y educación médica",
+    "descripcion": "Explora la integración de la inteligencia artificial en la atención sanitaria, la formación médica y los desafíos éticos como el sesgo algorítmico.",
+    "titulos_muestra": [
+      "(2018) High-performance medicine: the convergence of human and artificial intelligence",
+      "RUSSELL S., 2002, ARTIFICIAL INTELLIGENCE: A MODERN APPROACH",
+      "(2019) Addressing Bias in Artificial Intelligence in Health Care",
+      "(2018) Machine learning and medical education",
+      "(2018) Medical students' attitude towards artificial intelligence: a multicentre survey",
+      "(2017) Artificial intelligence in healthcare: past, present and future"
+    ]
+  },
+  {
+    "cluster": 25,
+    "tamano": 217,
+    "nombre": "Ética y alfabetización en IA educativa",
+    "descripcion": "Explora principios éticos y competencias necesarias para integrar responsablemente la inteligencia artificial en contextos educativos.",
+    "titulos_muestra": [
+      "BORENSTEIN JASON, 2021, AI ETHICS, V1, P61, DOI [10.1007/S43681-020-00002-7, 10.1007/S43681-020-00002-7]",
+      "(2020) What is AI Literacy? Competencies and Design Considerations",
+      "(2022) Ethical principles for artificial intelligence in education",
+      "(2021) Ethics of AI in Education: Towards a Community-Wide Framework",
+      "(2021) You Can't Sit With Us",
+      "(2021) Conceptualizing AI literacy: An exploratory review"
+    ]
+  }
+]

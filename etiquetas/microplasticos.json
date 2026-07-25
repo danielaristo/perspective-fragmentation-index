@@ -1,0 +1,86 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 667,
+    "nombre": "Microplásticos y salud humana",
+    "descripcion": "Estudia la exposición, consumo y presencia de microplásticos en el cuerpo humano y sus posibles efectos sobre la salud.",
+    "titulos_muestra": [
+      "(2017) Plastic and Human Health: A Micro Issue?",
+      "(2019) Human Consumption of Microplastics",
+      "(2020) Plasticenta: First evidence of microplastics in human placenta",
+      "(2019) Detection of Various Microplastics in Human Stool",
+      "(2019) Environmental exposure to microplastics: An overview on possible human health effects",
+      "(2022) Discovery and quantification of plastic particle pollution in human blood"
+    ]
+  },
+  {
+    "cluster": 1,
+    "tamano": 361,
+    "nombre": "Microplásticos en ecosistemas terrestres",
+    "descripcion": "Estudio de la presencia, efectos y toxicidad de microplásticos en suelos, plantas y organismos de ecosistemas terrestres.",
+    "titulos_muestra": [
+      "(2004) Lost at Sea: Where Is All the Plastic?",
+      "(2017) Production, use, and fate of all plastics ever made",
+      "(2017) Microplastics in freshwater and terrestrial environments: Evaluating the current understanding to identify the knowledge gaps and future research priorities",
+      "(2019) Microplastics Can Change Soil Properties and Affect Plant Performance",
+      "(2019) Ecotoxicity and genotoxicity of polystyrene microplastics on higher plant Vicia faba",
+      "(2016) Microplastics in the Terrestrial Ecosystem: Implications for<i>Lumbricus terrestris</i>(Oligochaeta, Lumbricidae)"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 523,
+    "nombre": "Microplásticos marinos y sus impactos",
+    "descripcion": "Estudio de la contaminación por microplásticos en ambientes marinos, sus efectos en organismos y riesgos para la seguridad alimentaria y humana.",
+    "titulos_muestra": [
+      "(2011) Microplastics in the marine environment",
+      "(2011) Microplastics as contaminants in the marine environment: A review",
+      "(2015) Plastic waste inputs from land into the ocean",
+      "(2014) Microplastics in bivalves cultured for human consumption",
+      "(2013) The physical impacts of microplastics on marine organisms: A review",
+      "(2018) Marine microplastic debris: An emerging issue for food security, food safety and human health"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 181,
+    "nombre": "Toxicidad de microplásticos en peces",
+    "descripcion": "Estudia los efectos tóxicos de microplásticos en peces, incluyendo daño intestinal, estrés oxidativo, disbiosis microbiana y alteraciones reproductivas.",
+    "titulos_muestra": [
+      "(2016) Uptake and Accumulation of Polystyrene Microplastics in Zebrafish (<i>Danio rerio</i>) and Toxic Effects in Liver",
+      "(2017) Microplastic particles cause intestinal damage and other adverse effects in zebrafish Danio rerio and nematode Caenorhabditis elegans",
+      "(2017) Microplastics cause neurotoxicity, oxidative damage and energy-related changes and interact with the bioaccumulation of mercury in the European seabass, Dicentrarchus labrax (Linnaeus, 1758)",
+      "(2019) Microplastics induce intestinal inflammation, oxidative stress, and disorders of metabolome and microbiome in zebrafish",
+      "(2019) Accumulation of different shapes of microplastics initiates intestinal injury and gut microbiota dysbiosis in the gut of zebrafish",
+      "(2019) Polystyrene microplastics cause tissue damages, sex-specific reproductive disruption and transgenerational effects in marine medaka (Oryzias melastigma)"
+    ]
+  },
+  {
+    "cluster": 4,
+    "tamano": 144,
+    "nombre": "Microplásticos atmosféricos y exposición humana",
+    "descripcion": "Estudio de la presencia, transporte y deposición de microplásticos en el aire y sus efectos sobre la salud humana.",
+    "titulos_muestra": [
+      "(2017) Airborne microplastics: Consequences to human health?",
+      "(2016) A first overview of textile fibers, including microplastics, in indoor and outdoor environments",
+      "(2016) Synthetic fibers in atmospheric fallout: A source of microplastics in the environment?",
+      "(2019) Atmospheric transport and deposition of microplastics in a remote mountain catchment",
+      "(2019) Simulating human exposure to indoor airborne microplastics using a Breathing Thermal Manikin",
+      "(2015) Microplastic contamination in an urban area: a case study in Greater Paris"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 179,
+    "nombre": "Toxicidad de micro y nanoplásticos en organismos acuáticos",
+    "descripcion": "Estudia los efectos tóxicos de micro y nanoplásticos sobre organismos acuáticos, incluyendo adsorción de contaminantes e interacciones con algas y daphnia.",
+    "titulos_muestra": [
+      "(2014) Nanoplastic Affects Growth of<i>S. obliquus</i>and Reproduction of<i>D. magna</i>",
+      "(2016) Toxic effects of microplastic on marine microalgae Skeletonema costatum: Interactions between microplastic and algae",
+      "(2017) Microplastics and Nanoplastics in Aquatic Environments: Aggregation, Deposition, and Enhanced Contaminant Transport",
+      "(2018) Adsorption of antibiotics on microplastics",
+      "(2010) Physical Adsorption of Charged Plastic Nanoparticles Affects Algal Photosynthesis",
+      "(2020) What are the drivers of microplastic toxicity? Comparing the toxicity of plastic chemicals and particles to Daphnia magna"
+    ]
+  }
+]

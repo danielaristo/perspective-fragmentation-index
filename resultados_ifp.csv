@@ -1,0 +1,21 @@
+campo,n_articulos,n_nodos_red,min_peso_usado,n_perspectivas,IFP,modularidad_Q,proporcion_citas_inter_cluster
+Refrigerated Vehicle Routing Problem (ancla validacion),393,1630,2,6,0.5264,0.6128,0.2164
+Etica de la Inteligencia Artificial,398,1217,2,5,0.4407,0.5715,0.1257
+Adaptacion al Cambio Climatico,1019,1181,3,6,0.502,0.5545,0.2015
+Edicion Genetica CRISPR,1592,2123,4,4,0.3792,0.3078,0.3299
+Economia Circular,890,2105,3,5,0.4499,0.301,0.4236
+Reticencia a Vacunas COVID-19,1809,2389,3,7,0.55,0.2317,0.5433
+Responsabilidad Social Corporativa,1617,2075,5,4,0.3718,0.3594,0.2562
+Deep Learning (aplicaciones medicas),702,823,3,6,0.5186,0.7081,0.0978
+Educacion Virtual,1122,1065,3,8,0.5944,0.5111,0.2722
+Salud Mental Adolescentes,1319,1376,3,7,0.5439,0.4567,0.2999
+Energias Renovables,886,1070,3,10,0.602,0.6059,0.2002
+Resiliencia Cadena de Suministro,534,1892,3,3,0.3283,0.2972,0.3127
+Blockchain en Finanzas y Cadena de Suministro,318,1499,2,7,0.5682,0.5487,0.2808
+Movilidad Urbana Sostenible,636,1631,2,12,0.6402,0.8648,0.0557
+Resistencia Antimicrobiana,1359,1448,3,7,0.5755,0.5334,0.3181
+Computacion Cuantica,412,2519,2,6,0.5106,0.3964,0.3853
+Integridad en Investigacion,1053,1956,2,4,0.3702,0.5356,0.0749
+Microplasticos,1204,2077,5,6,0.4936,0.3083,0.4224
+Alfabetizacion Financiera,310,1962,2,7,0.5685,0.4506,0.3801
+Agricultura de Precision,451,3201,2,9,0.6195,0.7433,0.1153

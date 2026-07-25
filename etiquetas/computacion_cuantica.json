@@ -1,0 +1,86 @@
+[
+  {
+    "cluster": 0,
+    "tamano": 614,
+    "nombre": "Algoritmos cuánticos variacionales y aprendizaje automático",
+    "descripcion": "Desarrollo de algoritmos cuánticos para dispositivos NISQ, incluyendo métodos variacionales, optimización y aprendizaje automático cuántico.",
+    "titulos_muestra": [
+      "(2018) Quantum Computing in the NISQ era and beyond",
+      "(2009) Quantum Algorithm for Linear Systems of Equations",
+      "(2021) Variational quantum algorithms",
+      "(2017) Quantum machine learning",
+      "(2018) Adiabatic quantum computation",
+      "FARHI E, 2014, ARXIV, DOI ARXIV:1411.4028"
+    ]
+  },
+  {
+    "cluster": 2,
+    "tamano": 541,
+    "nombre": "Fundamentos y computación cuántica superconductora",
+    "descripcion": "Estudia los principios teóricos, algoritmos y hardware superconductor que sustentan la computación cuántica y su ventaja sobre la clásica.",
+    "titulos_muestra": [
+      "(2019) Quantum supremacy using a programmable superconducting processor",
+      "(1982) Simulating physics with computers",
+      "(1996) A fast quantum mechanical algorithm for database search",
+      "SHOR PW, 1997, SIAM J COMPUT, V26, P1484, DOI [10.1137/S0097539795293172, 10.1137/S0036144598347011]",
+      "(2019) A quantum engineer's guide to superconducting qubits",
+      "(1985) Quantum theory, the Church–Turing principle and the universal quantum computer"
+    ]
+  },
+  {
+    "cluster": 3,
+    "tamano": 494,
+    "nombre": "Algoritmos variacionales cuánticos para química cuántica",
+    "descripcion": "Métodos híbridos cuántico-clásicos que emplean solucionadores variacionales de autovalores para simular sistemas moleculares y electrónicos en procesadores cuánticos.",
+    "titulos_muestra": [
+      "(2014) A variational eigenvalue solver on a photonic quantum processor",
+      "(2017) Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets",
+      "(2019) Quantum Chemistry in the Age of Quantum Computing",
+      "(2016) The theory of variational hybrid quantum-classical algorithms",
+      "(2018) Barren plateaus in quantum neural network training landscapes",
+      "(2020) Quantum computational chemistry"
+    ]
+  },
+  {
+    "cluster": 5,
+    "tamano": 152,
+    "nombre": "Simulación cuántica de sistemas hamiltonianos",
+    "descripcion": "Algoritmos cuánticos para simular la evolución de sistemas físicos mediante técnicas como qubitización y procesamiento de señales cuánticas.",
+    "titulos_muestra": [
+      "(2012) Quantum Computation and Quantum Information",
+      "(1996) Universal Quantum Simulators",
+      "(1999) Quantum Algorithm Providing Exponential Speed Increase for Finding Eigenvalues and Eigenvectors",
+      "(2019) Hamiltonian Simulation by Qubitization",
+      "(2017) Optimal Hamiltonian Simulation by Quantum Signal Processing",
+      "(2020) Variational quantum algorithms for nonlinear problems"
+    ]
+  },
+  {
+    "cluster": 6,
+    "tamano": 140,
+    "nombre": "Computación cuántica aplicada a biomedicina",
+    "descripcion": "Explora el potencial de la computación cuántica para acelerar el descubrimiento de fármacos, la biología molecular y aplicaciones en salud.",
+    "titulos_muestra": [
+      "(2020) The prospects of quantum computing in computational molecular biology",
+      "(2002) Algorithms for quantum computation: discrete logarithms and factoring",
+      "(2023) Quantum Computing for Healthcare: A Review",
+      "(2020) Application of Quantum Computing to Biochemical Systems: A Look to the Future",
+      "(2021) Quantum computing's potential for drug discovery: Early stage industry dynamics",
+      "(2018) Potential of quantum computing for drug discovery"
+    ]
+  },
+  {
+    "cluster": 7,
+    "tamano": 303,
+    "nombre": "Panorama y aplicaciones de la computación cuántica",
+    "descripcion": "Revisiones sistemáticas sobre tecnologías, plataformas y aplicaciones de la computación cuántica en finanzas, energía y desarrollo de software.",
+    "titulos_muestra": [
+      "(2021) Quantum computing: A taxonomy, systematic review and future directions",
+      "ORUS ROMAN, 2019, REVIEWS IN PHYSICS, V4, P115, DOI [10.1016/J.REVIP.2019.100028, 10.1016/J.REVIP.2019.100028]",
+      "(2019) Quantum computing for energy systems optimization: Challenges and opportunities",
+      "(2020) Quantum Computing for Finance: State-of-the-Art and Future Prospects",
+      "(2019) A Survey on quantum computing technology",
+      "(2022) Quantum Software Components and Platforms: Overview and Quality Assessment"
+    ]
+  }
+]
