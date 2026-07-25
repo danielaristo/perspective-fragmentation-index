@@ -50,7 +50,9 @@ Our contribution is threefold. First, a fully automated, reproducible co-citatio
 
 The pipeline proceeds through six stages, from a Web of Science search to the final Index of Perspective Fragmentation, summarized in Figure 1 and detailed in the subsections that follow.
 
-![Methodological pipeline: from Web of Science title search to the Index of Perspective Fragmentation (six stages).](../figuras/diagrama_metodologia.png)
+![](../figuras/diagrama_metodologia.png)
+
+**Figure 1.** Methodological pipeline: from Web of Science title search to the Index of Perspective Fragmentation (six stages).
 
 ### 3.1 Field selection
 
@@ -116,7 +118,9 @@ To determine whether any resulting discrepancy is driven by this search-field di
 
 The automated pipeline identified six significant perspectives in the Title-search RVRP corpus (IFP = 0.526, Q = 0.613, inter-cluster proportion = 0.216; n = 393 articles, pruned network = 1,630 nodes) and seven in the controlled, identical-corpus Topic-search replication (IFP = 0.564, Q = 0.549, inter-cluster proportion = 0.268; n = 469 articles, pruned network = 2,329 nodes) — both modularity values exceeding the anchor study's Q = 0.474, consistent with at least comparably well-defined community structure under either search strategy. Table 2 maps both automated results onto the anchor study's four manually interpreted perspectives.
 
-![Co-citation network of the RVRP anchor field. Node color denotes Louvain community; node size denotes PageRank centrality; only the top-45 most central nodes per cluster and intra-cluster edges are shown for legibility.](../figuras/red_rvrp.png)
+![](../figuras/red_rvrp.png)
+
+**Figure 2.** Co-citation network of the RVRP anchor field. Node color denotes Louvain community; node size denotes PageRank centrality; only the top-45 most central nodes per cluster and intra-cluster edges are shown for legibility.
 
 **Table 2. Correspondence between the manually derived RVRP perspectives (Aristizábal Torres et al., 2026) and the automated clusters recovered by the present pipeline, under both the standard Title-search design and a controlled replication on the anchor study's identical Topic-search corpus.**
 
@@ -130,7 +134,9 @@ The automated pipeline identified six significant perspectives in the Title-sear
 
 The controlled replication clarifies which of the two divergences observed under Title search are attributable to search-field coverage and which are attributable to the clustering methodology itself. The spurious microbial-contamination cluster present in the Title-search result **disappears** under the controlled replication, confirming it was a coverage artifact of the looser Title query (Section 3.2) rather than a property of the clustering algorithm. The absence of a distinct cluster corresponding to the anchor's Perspective 4 (dynamic, time-dependent, and multi-objective routing with intelligent transportation systems), however, **persists even on the anchor study's own corpus**: neither the Title-search nor the Topic-search automated run isolates it as a separate community. This rules out corpus coverage as the explanation and points instead to a genuine methodological difference between the two pipelines — most plausibly the anchor study's use of a *directed* co-citation network processed with Gephi's modularity algorithm, versus our *undirected*, weight-pruned network processed with Louvain, and/or the anchor study's use of expert judgment to designate four communities as "dominant" out of nine detected, versus our fixed 3%-of-nodes significance threshold applied uniformly across 20 fields. We report this as an honest limitation of the mechanical, threshold-based approach required for cross-field comparability (Section 6), not as a claim that Perspective 4 does not exist in the literature.
 
-![Co-citation network of the RVRP literature under the controlled replication (identical 469-article corpus to the anchor study, Topic search).](../figuras/red_rvrp_control_topico.png)
+![](../figuras/red_rvrp_control_topico.png)
+
+**Figure 3.** Co-citation network of the RVRP literature under the controlled replication (identical 469-article corpus to the anchor study, Topic search).
 
 Beyond this one confirmed gap, both automated runs recover the substantive core of all three other anchor perspectives, and both resolve the anchor's Perspective 3 (inventory-routing integration) into multiple formally distinct operations-research problem classes that the manual study's four-perspective aggregation grouped together — the classical Inventory Routing Problem, a production-coordinated variant, and the more strategic, multi-echelon Location-Inventory-Routing Problem. This finer granularity is a direct, mechanical consequence of our significance threshold rather than an interpretive choice, and illustrates a general property of the pipeline: it tends to resolve more, smaller, formally distinguishable sub-communities than a human analyst focusing on a small number of "dominant" perspectives would.
 
@@ -188,17 +194,25 @@ Table 1 reports the full results. IFP ranged from 0.328 (Supply Chain Resilience
 
 Figures 4 and 5 illustrate the two structural extremes: the lowest-fragmentation network (Supply Chain Resilience) and the highest-fragmentation network (Sustainable Urban Mobility).
 
-![Co-citation network of Supply Chain Resilience, the field with the lowest observed IFP (0.328).](../figuras/red_cadena_suministro.png)
+![](../figuras/red_cadena_suministro.png)
 
-![Co-citation network of Sustainable Urban Mobility, the field with the highest observed IFP (0.640).](../figuras/red_movilidad_urbana.png)
+**Figure 4.** Co-citation network of Supply Chain Resilience, the field with the lowest observed IFP (0.328).
 
-![Comparative ranking of IFP across all 20 fields.](../figuras/comparativo_ifp.png)
+![](../figuras/red_movilidad_urbana.png)
+
+**Figure 5.** Co-citation network of Sustainable Urban Mobility, the field with the highest observed IFP (0.640).
+
+![](../figuras/comparativo_ifp.png)
+
+**Figure 6.** Comparative ranking of IFP across all 20 fields.
 
 ### 4.3 Robustness: IFP is not a corpus-size artifact
 
 Because the pruning procedure (Section 3.4) standardizes final network size, but not the number of significant clusters it can produce, we tested whether IFP was nonetheless confounded by raw corpus volume or by residual variation in pruned network size. Across the 20 fields, IFP showed no statistically significant correlation with either the number of source articles (Pearson r = -0.220, p = 0.352) or the number of nodes in the final pruned network (r = -0.128, p = 0.589) (Figure 7). If anything, the point estimates trend slightly negative, the opposite of what a simple "more data, more apparent clusters" artifact would predict. We take this as evidence that IFP captures a structural property of each field's citation practice rather than an artifact of how much literature happened to be retrieved.
 
-![Robustness check: IFP plotted against the number of source articles (left) and the number of nodes in the pruned network (right), across all 20 fields. Dashed lines show ordinary least-squares fits; neither correlation is statistically significant at α = 0.05.](../figuras/robustez_ifp_tamano.png)
+![](../figuras/robustez_ifp_tamano.png)
+
+**Figure 7.** Robustness check: IFP plotted against the number of source articles (left) and the number of nodes in the pruned network (right), across all 20 fields. Dashed lines show ordinary least-squares fits; neither correlation is statistically significant at α = 0.05.
 
 ### 4.4 Qualitative patterns
 
