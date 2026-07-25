@@ -211,7 +211,7 @@ A natural extension of this work, left for future development, is a public, self
 
 ## Data and Code Availability
 
-The full pipeline (Web of Science parsing, network construction, pruning, clustering, LLM-based labeling, and figure generation), the complete results table for all 20 fields, and all network and comparative figures are available at [REPOSITORY URL TO BE ADDED]. Raw Web of Science exports are not redistributed due to licensing restrictions, but the derived co-citation networks (as node/edge lists) are included to allow independent replication of the clustering and indexing steps.
+The full pipeline (Web of Science parsing, network construction, pruning, clustering, LLM-based labeling, and figure generation), the complete results table for all 20 fields, and all network and comparative figures are available at https://github.com/danielaristo/perspective-fragmentation-index. Raw Web of Science exports are not redistributed due to licensing restrictions, but the derived co-citation networks (as node/edge lists) are included to allow independent replication of the clustering and indexing steps.
 
 ---
 
